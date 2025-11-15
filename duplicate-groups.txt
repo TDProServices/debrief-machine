@@ -1,0 +1,1443 @@
+=== Checksum: 00427d3ebd5338045d78b2ae2621f300 ===
+from-external-2/Debriefs/Knowledge_Base_Restructure_Strategy-Project_Briefing_v1.0.md
+from-external-3/Debriefs/Knowledge_Base_Restructure_Strategy-Project_Briefing_v1.0.md
+from-obsidian-main/Debriefs/Knowledge_Base_Restructure_Strategy-Project_Briefing_v1.0.md
+
+=== Checksum: 01676bc5efdb5ed4b85fb44a41fda11a ===
+from-external-2/Debriefs/Debrief_Machine_v2.1.0_Complete_Enhancement_and_Systematic_Validation-Final_Ultimate_Briefing_v4.0.md
+from-external-3/Debriefs/Debrief_Machine_v2.1.0_Complete_Enhancement_and_Systematic_Validation-Final_Ultimate_Briefing_v4.0.md
+from-obsidian-main/Debriefs/Debrief_Machine_v2.1.0_Complete_Enhancement_and_Systematic_Validation-Final_Ultimate_Briefing_v4.0.md
+
+=== Checksum: 024982ffab44bf02272002469670e950 ===
+from-external-1/Debriefs/Project_Knowledge_Optimization_Action_Plan.md
+from-external-2/Debriefs/Project_Knowledge_Optimization_Action_Plan.md
+from-external-3/Debriefs/Project_Knowledge_Optimization_Action_Plan.md
+from-obsidian-main/Debriefs/Project_Knowledge_Optimization_Action_Plan.md
+
+=== Checksum: 02e7d46b03811abf9dc3796bc236ba00 ===
+from-external-2/Prompt_Archive/The_Debrief_Machine_v3.0.0-Complete_Comprehensive_Prompt_Library.md
+from-external-3/Prompt_Archive/The_Debrief_Machine_v3.0.0-Complete_Comprehensive_Prompt_Library.md
+from-obsidian-main/Prompt_Archive/The_Debrief_Machine_v3.0.0-Complete_Comprehensive_Prompt_Library.md
+
+=== Checksum: 0304a7448161b6e38e0c768ee9ef46d4 ===
+from-external-3/Prompt_Archive/CONTINUOUS_REVIEW_and_IMPROVEMENT_OF_EXISTING_DEBRIEF.md
+from-obsidian-main/Prompt_Archive/CONTINUOUS_REVIEW_and_IMPROVEMENT_OF_EXISTING_DEBRIEF.md
+
+=== Checksum: 03cf3e0dda6abfa7aea89d0df75bd45d ===
+from-external-1/Debriefs/Debrief_Machine_System_Development_and_Review-Final_Project_Briefing_v3.1.0.md
+from-external-2/Debriefs/Debrief_Machine_System_Development_and_Review-Final_Project_Briefing_v3.1.0.md
+from-external-3/Debriefs/Debrief_Machine_System_Development_and_Review-Final_Project_Briefing_v3.1.0.md
+from-obsidian-main/Debriefs/Debrief_Machine_System_Development_and_Review-Final_Project_Briefing_v3.1.0.md
+
+=== Checksum: 061de4221304df622b71ea37b15ab00b ===
+from-external-2/Debriefs/Strategic_Project_Completion_and_Comprehensive_Debrief_v6.0-ULTIMATE_FINAL.md
+from-external-3/Debriefs/Strategic_Project_Completion_and_Comprehensive_Debrief_v6.0-ULTIMATE_FINAL.md
+from-obsidian-main/Debriefs/Strategic_Project_Completion_and_Comprehensive_Debrief_v6.0-ULTIMATE_FINAL.md
+
+=== Checksum: 0623439cb66810295ce99aef9f1eb692 ===
+from-external-3/claude-debrief-machine-master.md
+from-obsidian-main/claude-debrief-machine-master.md
+
+=== Checksum: 06b9b341de410c4f5111a129b9d0b1c5 ===
+from-external-1/Debriefs/Claude_Edition_Optimization-Project_Briefing.md
+from-external-2/Debriefs/Claude_Edition_Optimization-Project_Briefing.md
+from-external-3/Debriefs/Claude_Edition_Optimization-Project_Briefing.md
+from-obsidian-main/Debriefs/Claude_Edition_Optimization-Project_Briefing.md
+
+=== Checksum: 073b1d75f9542648015fa039800fa3e5 ===
+from-external-2/Debriefs/Brand_Strategy_and_Multi-Platform_Content_Development-Final_Comprehensive_Debrief_v5.0.0.md
+from-external-3/Debriefs/Brand_Strategy_and_Multi-Platform_Content_Development-Final_Comprehensive_Debrief_v5.0.0.md
+from-obsidian-main/Debriefs/Brand_Strategy_and_Multi-Platform_Content_Development-Final_Comprehensive_Debrief_v5.0.0.md
+
+=== Checksum: 07579ed453a497203cf8a5c05c978a4d ===
+from-external-3/Current_Prompts/Current_Prompt_Collection.md
+from-obsidian-main/Current_Prompts/Current_Prompt_Collection.md
+
+=== Checksum: 08d30e53c34013728930da278fad8280 ===
+from-external-1/Debriefs/Comprehensive_Debrief_Update_and_Enhancement_Prompt_v1.0.md
+from-external-2/Debriefs/Comprehensive_Debrief_Update_and_Enhancement_Prompt_v1.0.md
+from-external-3/Debriefs/Comprehensive_Debrief_Update_and_Enhancement_Prompt_v1.0.md
+from-obsidian-main/Debriefs/Comprehensive_Debrief_Update_and_Enhancement_Prompt_v1.0.md
+
+=== Checksum: 0983a47733d3253e56e01910a1ebbd66 ===
+from-external-3/Project_Deliverabies,_Requirements_and_Decisions/Zettelkasten_vs_Daily_Bridge_System_Analysis-Project_Briefing_v1.0.md
+from-obsidian-main/Project_Deliverabies,_Requirements_and_Decisions/Zettelkasten_vs_Daily_Bridge_System_Analysis-Project_Briefing_v1.0.md
+
+=== Checksum: 0d5f08c50a824ef7c04c7f89b07d6800 ===
+from-external-1/Debriefs/Final_Comprehensive_Review-99%_Conversation_Coverage_Verification.md
+from-external-2/Debriefs/Final_Comprehensive_Review-99%_Conversation_Coverage_Verification.md
+from-external-3/Debriefs/Final_Comprehensive_Review-99%_Conversation_Coverage_Verification.md
+from-obsidian-main/Debriefs/Final_Comprehensive_Review-99%_Conversation_Coverage_Verification.md
+
+=== Checksum: 0d92a10a2f101233d7ed8063739f932e ===
+from-external-2/Prompt_Archive/UNIVERSAL_PLAYBACK_PROMPT_v2.0.1-Complete_30+_Section_Parity_.md
+from-external-3/Prompt_Archive/UNIVERSAL_PLAYBACK_PROMPT_v2.0.1-Complete_30+_Section_Parity_.md
+from-obsidian-main/Prompt_Archive/UNIVERSAL_PLAYBACK_PROMPT_v2.0.1-Complete_30+_Section_Parity_.md
+
+=== Checksum: 0d9e1336cb6709d544dc44b38c877cbd ===
+from-external-1/Prompt_Archive/ChatGPT_Edition_v2.1.0.md
+from-external-2/Prompt_Archive/ChatGPT_Edition_v2.1.0.md
+from-external-3/Prompt_Archive/ChatGPT_Edition_v2.1.0.md
+from-obsidian-main/Prompt_Archive/ChatGPT_Edition_v2.1.0.md
+
+=== Checksum: 0eec0e30a173bb3caa89a1e185dedb62 ===
+from-external-2/Prompt_Archive/Debrief_Machine_Prompts_for_Documentation_Templates.md
+from-external-3/Prompt_Archive/Debrief_Machine_Prompts_for_Documentation_Templates.md
+from-obsidian-main/Prompt_Archive/Debrief_Machine_Prompts_for_Documentation_Templates.md
+
+=== Checksum: 128d2bdeee33a40ba327a5777979923f ===
+from-external-3/Prompt_Archive/Standalone_Enhancement_Prompt.md
+from-obsidian-main/Prompt_Archive/Standalone_Enhancement_Prompt.md
+
+=== Checksum: 12eb0d712ebc2978fe6a73437ee0f088 ===
+from-external-1/Debriefs/Debrief_Machine_v2.1.0-Compliance_Validation_and_Implementation_Guide.md
+from-external-2/Debriefs/Debrief_Machine_v2.1.0-Compliance_Validation_and_Implementation_Guide.md
+from-external-3/Debriefs/Debrief_Machine_v2.1.0-Compliance_Validation_and_Implementation_Guide.md
+from-obsidian-main/Debriefs/Debrief_Machine_v2.1.0-Compliance_Validation_and_Implementation_Guide.md
+
+=== Checksum: 1437fadd7c5399a0875d630d4a1f33a5 ===
+from-external-3/Project_Deliverabies,_Requirements_and_Decisions/Notebook_+_Obsidian_Systems-Better_Than_Zettelkasten.md
+from-obsidian-main/Project_Deliverabies,_Requirements_and_Decisions/Notebook_+_Obsidian_Systems-Better_Than_Zettelkasten.md
+
+=== Checksum: 1539debfe36e48354f0e1fe214df48fd ===
+from-external-3/Project_Deliverabies,_Requirements_and_Decisions/Final_Artifact_Upload_Analysis_and_Obsidian_Integration_Plan.md
+from-obsidian-main/Project_Deliverabies,_Requirements_and_Decisions/Final_Artifact_Upload_Analysis_and_Obsidian_Integration_Plan.md
+
+=== Checksum: 15b94384b9b806cd906474710f666a1d ===
+from-external-1/Prompt_Archive/Perplexity_Edition_v2.1.0.0.md
+from-external-1/Prompt_Archive/Perplexity_Edition_v2.1.0.md
+from-external-1/Prompt_Archive/Perplexity_Edition_v2.1_1.md
+from-external-2/Prompt_Archive/Perplexity_Edition_v2.1.0.0.md
+from-external-2/Prompt_Archive/Perplexity_Edition_v2.1.0.md
+from-external-2/Prompt_Archive/Perplexity_Edition_v2.1_1.md
+from-external-3/Prompt_Archive/Perplexity_Edition_v2.1.0.0.md
+from-external-3/Prompt_Archive/Perplexity_Edition_v2.1.0.md
+from-external-3/Prompt_Archive/Perplexity_Edition_v2.1_1.md
+from-obsidian-main/Prompt_Archive/Perplexity_Edition_v2.1.0.0.md
+from-obsidian-main/Prompt_Archive/Perplexity_Edition_v2.1.0.md
+from-obsidian-main/Prompt_Archive/Perplexity_Edition_v2.1_1.md
+
+=== Checksum: 160052bcab8245694ce976871143043f ===
+from-external-3/Prompt_Archive/CLAUDE_RESEARCH_SYSTEM_v2.1.0-COPY-PASTE_READY_3.md
+from-external-3/Prompt_Archive/CLAUDE_RESEARCH_SYSTEM_v2.1.0-COPY-PASTE_READY.md
+from-obsidian-main/Prompt_Archive/CLAUDE_RESEARCH_SYSTEM_v2.1.0-COPY-PASTE_READY_3.md
+from-obsidian-main/Prompt_Archive/CLAUDE_RESEARCH_SYSTEM_v2.1.0-COPY-PASTE_READY.md
+
+=== Checksum: 174711cae5f97e5fb5773fefe4de7aa7 ===
+from-external-1/Debriefs/AUTONOMOUS_DEBRIEF_SYSTEM_v2.2.0.0.md
+from-external-2/Debriefs/AUTONOMOUS_DEBRIEF_SYSTEM_v2.2.0.0.md
+from-external-3/Debriefs/AUTONOMOUS_DEBRIEF_SYSTEM_v2.2.0.0.md
+from-obsidian-main/Debriefs/AUTONOMOUS_DEBRIEF_SYSTEM_v2.2.0.0.md
+
+=== Checksum: 191f01bc3f488e163120a596ab5420fc ===
+from-external-3/Debriefs/Debrief_Machine_v2.1.0_Complete_Enhancement_and_Systematic_Validation-FINAL_v5.0.md
+from-obsidian-main/Debriefs/Debrief_Machine_v2.1.0_Complete_Enhancement_and_Systematic_Validation-FINAL_v5.0.md
+
+=== Checksum: 19e9f2702008907a5254e17f4471f68f ===
+from-external-3/Debriefs/The_Debrief_Machine_v2.1.0-Final_Comprehensive_Project_Summary.md
+from-obsidian-main/Debriefs/The_Debrief_Machine_v2.1.0-Final_Comprehensive_Project_Summary.md
+
+=== Checksum: 1a30694c93a08b5542cf6579cbaea571 ===
+from-external-1/Debriefs/Complete_Version_History_and_Evolution_Guide.md
+from-external-2/Debriefs/Complete_Version_History_and_Evolution_Guide.md
+from-external-3/Debriefs/Complete_Version_History_and_Evolution_Guide.md
+from-obsidian-main/Debriefs/Complete_Version_History_and_Evolution_Guide.md
+
+=== Checksum: 1a43b08be2083b2ee41e2846ea5b28c3 ===
+from-external-2/Prompt_Archive/The_Debrief_Machine_v2.4.0-Enhanced_Multi-Phase_System.md
+from-external-3/Prompt_Archive/The_Debrief_Machine_v2.4.0-Enhanced_Multi-Phase_System.md
+from-obsidian-main/Prompt_Archive/The_Debrief_Machine_v2.4.0-Enhanced_Multi-Phase_System.md
+
+=== Checksum: 1adee9f197162538c6ebe4a2c8f0f0da ===
+from-external-2/Debriefs/Debrief_Trigger_System_Implementation-Project_Briefing_v2.3.0.md
+from-external-3/Debriefs/Debrief_Trigger_System_Implementation-Project_Briefing_v2.3.0.md
+from-obsidian-main/Debriefs/Debrief_Trigger_System_Implementation-Project_Briefing_v2.3.0.md
+
+=== Checksum: 1b1a7d8e344339bbc3de2a7e66dc161d ===
+from-external-3/Project_Deliverabies,_Requirements_and_Decisions/Complete_Daily_Bridge_+_Constellation_Implementation_Guide.md
+from-obsidian-main/Project_Deliverabies,_Requirements_and_Decisions/Complete_Daily_Bridge_+_Constellation_Implementation_Guide.md
+
+=== Checksum: 1bec5faec879068b627685b89298eef5 ===
+from-external-2/Sessions/Claude_Master_Collection_Development_and_Comprehensive_Project_Audit.md
+from-external-3/Sessions/Claude_Master_Collection_Development_and_Comprehensive_Project_Audit.md
+from-obsidian-main/Sessions/Claude_Master_Collection_Development_and_Comprehensive_Project_Audit.md
+
+=== Checksum: 1d5d107d208db93d0abfbe6753f14a2f ===
+from-external-1/Prompt_Archive/Complete_Collection_with_Enhanced_Project_Audit_v2.3.0.md
+from-external-2/Prompt_Archive/Complete_Collection_with_Enhanced_Project_Audit_v2.3.0.md
+from-external-3/Prompt_Archive/Complete_Collection_with_Enhanced_Project_Audit_v2.3.0.md
+from-obsidian-main/Prompt_Archive/Complete_Collection_with_Enhanced_Project_Audit_v2.3.0.md
+
+=== Checksum: 1e2b1368c96934b68b9b0843a1469c59 ===
+from-external-2/Prompt_Archive/Debrief_Machine_Prompts_for_Documentation_Templates-2.md
+from-external-3/Prompt_Archive/Debrief_Machine_Prompts_for_Documentation_Templates-2.md
+from-obsidian-main/Prompt_Archive/Debrief_Machine_Prompts_for_Documentation_Templates-2.md
+
+=== Checksum: 2069b2a3984aecb781ddd844967672ec ===
+from-external-2/Prompt_Archive/Complete_Collection_with_Enhanced_Project_Audit_v2.3.0.0.0.md
+from-external-3/Prompt_Archive/Complete_Collection_with_Enhanced_Project_Audit_v2.3.0.0.0.md
+from-obsidian-main/Prompt_Archive/Complete_Collection_with_Enhanced_Project_Audit_v2.3.0.0.0.md
+
+=== Checksum: 207304c52632adb0d93a5b5399012aec ===
+from-external-3/Project_Deliverabies,_Requirements_and_Decisions/AI_Copyright_Law-Protecting_creative_works_in_the_age_of_artificial_intelligence.md
+from-obsidian-main/Project_Deliverabies,_Requirements_and_Decisions/AI_Copyright_Law-Protecting_creative_works_in_the_age_of_artificial_intelligence.md
+
+=== Checksum: 222f65bf5def39eccfc01dad736552fc ===
+from-external-1/Debriefs/AUTONOMOUS_DEBRIEF_SYSTEM_v2.2.0.0.0.0.md
+from-external-2/Debriefs/AUTONOMOUS_DEBRIEF_SYSTEM_v2.2.0.0.0.0.md
+from-external-3/Debriefs/AUTONOMOUS_DEBRIEF_SYSTEM_v2.2.0.0.0.0.md
+from-obsidian-main/Debriefs/AUTONOMOUS_DEBRIEF_SYSTEM_v2.2.0.0.0.0.md
+
+=== Checksum: 229d3bbce793ab0a1d31fcbfde84faa3 ===
+from-external-2/Debriefs/Debrief_Machine_v2.1.0_Complete_Enhancement_and_Systematic_Validation-Ultimate_Briefing_v3.0.md
+from-external-3/Debriefs/Debrief_Machine_v2.1.0_Complete_Enhancement_and_Systematic_Validation-Ultimate_Briefing_v3.0.md
+from-obsidian-main/Debriefs/Debrief_Machine_v2.1.0_Complete_Enhancement_and_Systematic_Validation-Ultimate_Briefing_v3.0.md
+
+=== Checksum: 22ddb93a1140b9fffc7f91d6c45091e6 ===
+from-external-1/Prompt_Archive/Perplexity_Debrief_Prompts_v2.1.0.0.md
+from-external-2/Prompt_Archive/Perplexity_Debrief_Prompts_v2.1.0.0.md
+from-external-3/Prompt_Archive/Perplexity_Debrief_Prompts_v2.1.0.0.md
+from-obsidian-main/Prompt_Archive/Perplexity_Debrief_Prompts_v2.1.0.0.md
+
+=== Checksum: 23b0a23c00c8547f2ee624393e9bab22 ===
+from-external-1/Prompt_Archive/Debrief_Machine_v2.3.0-Research-Driven_Guide_Generation.md
+from-external-2/Prompt_Archive/Debrief_Machine_v2.3.0-Research-Driven_Guide_Generation.md
+from-external-3/Prompt_Archive/Debrief_Machine_v2.3.0-Research-Driven_Guide_Generation.md
+from-obsidian-main/Prompt_Archive/Debrief_Machine_v2.3.0-Research-Driven_Guide_Generation.md
+
+=== Checksum: 246aa0a63d17fe13c3670eae30aef646 ===
+from-external-3/Prompt_Archive/COMPREHENSIVE_ENHANCEMENT_MODE_INTEGRATION.md
+from-obsidian-main/Prompt_Archive/COMPREHENSIVE_ENHANCEMENT_MODE_INTEGRATION.md
+
+=== Checksum: 2489db12921e8f117cb02ec45d714c23 ===
+from-external-1/Prompt_Archive/Claude_Project_Edition_with_Project_Audit_v2.2.0.md
+from-external-2/Prompt_Archive/Claude_Project_Edition_with_Project_Audit_v2.2.0.md
+from-external-3/Prompt_Archive/Claude_Project_Edition_with_Project_Audit_v2.2.0.md
+from-obsidian-main/Prompt_Archive/Claude_Project_Edition_with_Project_Audit_v2.2.0.md
+
+=== Checksum: 24b729fcc212effeb1a8fa0c17a4b460 ===
+from-external-1/Prompt_Archive/Content_Identification_and_Multi-Platform_Pipeline-1.md
+from-external-2/Prompt_Archive/Content_Identification_and_Multi-Platform_Pipeline-1.md
+from-external-3/Prompt_Archive/Content_Identification_and_Multi-Platform_Pipeline-1.md
+from-obsidian-main/Prompt_Archive/Content_Identification_and_Multi-Platform_Pipeline-1.md
+
+=== Checksum: 26cd6ed68b15fcd1cadd073b82db6ccc ===
+from-external-2/Prompt_Archive/SPECIALIZED_TEMPLATES_v2.3.0.md
+from-external-3/Prompt_Archive/SPECIALIZED_TEMPLATES_v2.3.0.md
+from-obsidian-main/Prompt_Archive/SPECIALIZED_TEMPLATES_v2.3.0.md
+
+=== Checksum: 2745f3a3f4f970c2c112064907eb9a92 ===
+from-external-1/Debriefs/Auto-Trigger_Detection_Development-Project_Briefing_1.md
+from-external-2/Debriefs/Auto-Trigger_Detection_Development-Project_Briefing_1.md
+from-external-3/Debriefs/Auto-Trigger_Detection_Development-Project_Briefing_1.md
+from-obsidian-main/Debriefs/Auto-Trigger_Detection_Development-Project_Briefing_1.md
+
+=== Checksum: 2824eee5faf2a12779690b21ff5a94ac ===
+from-external-1/Prompt_Archive/Claude_Edition_with_Auto-Continue_v2.1.2.md
+from-external-2/Prompt_Archive/Claude_Edition_with_Auto-Continue_v2.1.2.md
+from-external-3/Prompt_Archive/Claude_Edition_with_Auto-Continue_v2.1.2.md
+from-obsidian-main/Prompt_Archive/Claude_Edition_with_Auto-Continue_v2.1.2.md
+
+=== Checksum: 29107678973d3533e79f20a629a508d1 ===
+from-external-1/Debriefs/The_Debrief_Machine-Project_Briefing_1.md
+from-external-2/Debriefs/The_Debrief_Machine-Project_Briefing_1.md
+from-external-3/Debriefs/The_Debrief_Machine-Project_Briefing_1.md
+from-obsidian-main/Debriefs/The_Debrief_Machine-Project_Briefing_1.md
+
+=== Checksum: 2a52f383327d964a4727a303a42d68f7 ===
+from-external-1/Future_Deliverables_and_Next_Session_Plan.md
+from-external-2/Future_Deliverables_and_Next_Session_Plan.md
+from-external-3/Future_Deliverables_and_Next_Session_Plan.md
+from-obsidian-main/Future_Deliverables_and_Next_Session_Plan.md
+
+=== Checksum: 2ab4a0c69d6b25edab8766a0132168eb ===
+from-external-1/Prompt_Archive/Claude_Debrief_Prompts_v2.1.0-Part_1_Core_System_.md
+from-external-2/Prompt_Archive/Claude_Debrief_Prompts_v2.1.0-Part_1_Core_System_.md
+from-external-3/Prompt_Archive/Claude_Debrief_Prompts_v2.1.0-Part_1_Core_System_.md
+from-obsidian-main/Prompt_Archive/Claude_Debrief_Prompts_v2.1.0-Part_1_Core_System_.md
+
+=== Checksum: 2deb64609933e3e2f5a7e189f591213f ===
+from-external-1/Debriefs/Final_Conversation_Closeout-Complete_Action_Plan_and_Implementation_Protocol.md
+from-external-2/Debriefs/Final_Conversation_Closeout-Complete_Action_Plan_and_Implementation_Protocol.md
+from-external-3/Debriefs/Final_Conversation_Closeout-Complete_Action_Plan_and_Implementation_Protocol.md
+from-obsidian-main/Debriefs/Final_Conversation_Closeout-Complete_Action_Plan_and_Implementation_Protocol.md
+
+=== Checksum: 2ef34f4b75c5072a025255c2cdd1279b ===
+from-external-1/Debriefs/Final_Systematic_Validation_and_Conversation_Analysis-100%_Confidence_Achieved.md
+from-external-2/Debriefs/Final_Systematic_Validation_and_Conversation_Analysis-100%_Confidence_Achieved.md
+from-external-3/Debriefs/Final_Systematic_Validation_and_Conversation_Analysis-100%_Confidence_Achieved.md
+from-obsidian-main/Debriefs/Final_Systematic_Validation_and_Conversation_Analysis-100%_Confidence_Achieved.md
+from-obsidian-small/final-systematic-validation
+
+=== Checksum: 2f142c403ce2af137dff1028f699a27b ===
+from-external-2/Debriefs/Autonomous_Debrief_System_Development-Project_Briefing_v2.6.0_FINAL.md
+from-external-3/Debriefs/Autonomous_Debrief_System_Development-Project_Briefing_v2.6.0_FINAL.md
+from-obsidian-main/Debriefs/Autonomous_Debrief_System_Development-Project_Briefing_v2.6.0_FINAL.md
+
+=== Checksum: 2f3842b060d883600362d0621749edc2 ===
+from-external-1/Prompt_Archive/Account-Wide_Debrief_System_v3.0.md
+from-external-2/Prompt_Archive/Account-Wide_Debrief_System_v3.0.md
+from-external-3/Prompt_Archive/Account-Wide_Debrief_System_v3.0.md
+from-obsidian-main/Prompt_Archive/Account-Wide_Debrief_System_v3.0.md
+
+=== Checksum: 31a4d82efaed61cf9a2b5decefa086fc ===
+from-external-3/Debriefs/SoulCircuit_Edition_v3.0.md
+from-obsidian-main/Debriefs/SoulCircuit_Edition_v3.0.md
+
+=== Checksum: 32a839c8cbaeb25bcd616fade068bc3f ===
+from-external-2/Prompt_Archive/COMPLETE_Collection_Full_Section_Structure_v2.4.0.md
+from-external-3/Prompt_Archive/COMPLETE_Collection_Full_Section_Structure_v2.4.0.md
+from-obsidian-main/Prompt_Archive/COMPLETE_Collection_Full_Section_Structure_v2.4.0.md
+
+=== Checksum: 336d5b8fc2c739ccf5ca8ca1b9e19e5b ===
+from-external-3/Prompt_Archive/MINIMAL_ENHANCEMENT_PROMPT_Ultra-Quick_Deploy_manual_trigger_systemManual_Trigger_Detection_System_v2.1.3-Implementation_Guide.md
+from-obsidian-main/Prompt_Archive/MINIMAL_ENHANCEMENT_PROMPT_Ultra-Quick_Deploy_manual_trigger_systemManual_Trigger_Detection_System_v2.1.3-Implementation_Guide.md
+
+=== Checksum: 33dc8936d78e6a5f98758e6ad0eb02fd ===
+from-external-2/Prompt_Archive/Archived_Prompts/The_Debrief_Machine_v2.3.0-The_most_comprehensive_AI-powered_documentation_and_project_audit_system_available.md
+from-external-3/Prompt_Archive/Archived_Prompts/The_Debrief_Machine_v2.3.0-The_most_comprehensive_AI-powered_documentation_and_project_audit_system_available.md
+from-obsidian-main/Prompt_Archive/Archived_Prompts/The_Debrief_Machine_v2.3.0-The_most_comprehensive_AI-powered_documentation_and_project_audit_system_available.md
+
+=== Checksum: 3825b5a37b132f3e72c6756d45838e1e ===
+from-external-2/Debriefs/Master_Collection_Development-Ultimate_Project_Briefing_v3.0.md
+from-external-3/Debriefs/Master_Collection_Development-Ultimate_Project_Briefing_v3.0.md
+from-obsidian-main/Debriefs/Master_Collection_Development-Ultimate_Project_Briefing_v3.0.md
+
+=== Checksum: 3b6b0d4f341862b7a0b559edd56a8df8 ===
+from-external-3/Prompt_Archive/Complete_Collection_with_Enhanced_Project_Audit_v2.3.0.0.0.0.md
+from-obsidian-main/Prompt_Archive/Complete_Collection_with_Enhanced_Project_Audit_v2.3.0.0.0.0.md
+
+=== Checksum: 3bdc4866484f52af148bc9792b3ed735 ===
+from-external-2/Debriefs/Project_Briefing_v2.2.0.md
+from-external-3/Debriefs/Project_Briefing_v2.2.0.md
+from-obsidian-main/Debriefs/Project_Briefing_v2.2.0.md
+
+=== Checksum: 3ca7e8f652a0b70175376d6a059cb6a0 ===
+from-external-2/Debriefs/Machine_Manual_Trigger_Implementation-Project_Briefing_v2.1.3.md
+from-external-3/Debriefs/Machine_Manual_Trigger_Implementation-Project_Briefing_v2.1.3.md
+from-obsidian-main/Debriefs/Machine_Manual_Trigger_Implementation-Project_Briefing_v2.1.3.md
+
+=== Checksum: 3dbc37c5a004ad9144456dcb9b96aa4d ===
+from-external-2/Prompt_Archive/The_Complete_Debrief_Machine_v3.0-Master_Prompt_Collection.md
+from-external-3/Prompt_Archive/The_Complete_Debrief_Machine_v3.0-Master_Prompt_Collection.md
+from-obsidian-main/Prompt_Archive/The_Complete_Debrief_Machine_v3.0-Master_Prompt_Collection.md
+
+=== Checksum: 4025c3bee53c271c92e0b14bc01e3642 ===
+from-external-1/Prompt_Archive/Comprehensive_Technical_Project_Debrief_Documentation.md
+from-external-2/Prompt_Archive/Comprehensive_Technical_Project_Debrief_Documentation.md
+from-external-3/Prompt_Archive/Comprehensive_Technical_Project_Debrief_Documentation.md
+from-obsidian-main/Prompt_Archive/Comprehensive_Technical_Project_Debrief_Documentation.md
+
+=== Checksum: 40db29f20efd366f94630f9761c54daf ===
+from-external-1/Prompt_Archive/The_Debrief_Machine_v2.1.0-Integrated_System.md
+from-external-2/Prompt_Archive/The_Debrief_Machine_v2.1.0-Integrated_System.md
+from-external-3/Prompt_Archive/The_Debrief_Machine_v2.1.0-Integrated_System.md
+from-obsidian-main/Prompt_Archive/The_Debrief_Machine_v2.1.0-Integrated_System.md
+
+=== Checksum: 446b9c852275786ea6c31435cf03b531 ===
+from-external-2/Debriefs/File_Management_and_Cleanup_Strategy-Zero_Information_Loss_Protocol.md
+from-external-3/Debriefs/File_Management_and_Cleanup_Strategy-Zero_Information_Loss_Protocol.md
+from-obsidian-main/Debriefs/File_Management_and_Cleanup_Strategy-Zero_Information_Loss_Protocol.md
+
+=== Checksum: 458125e9bf602d17a6fccdd1287fe58d ===
+from-external-2/Debriefs/The_Debrief_Machine_v2.3.0_Development-Final_Consolidation_Briefing_v2.3.0.md
+from-external-3/Debriefs/The_Debrief_Machine_v2.3.0_Development-Final_Consolidation_Briefing_v2.3.0.md
+from-obsidian-main/Debriefs/The_Debrief_Machine_v2.3.0_Development-Final_Consolidation_Briefing_v2.3.0.md
+
+=== Checksum: 45b6cc42f726e86fadd9321398c2fa93 ===
+from-external-1/Debriefs/File_Management_and_Cleanup_Strategy-Zero_Information_Loss_Protocol_1.md
+from-external-2/Debriefs/File_Management_and_Cleanup_Strategy-Zero_Information_Loss_Protocol_1.md
+from-external-3/Debriefs/File_Management_and_Cleanup_Strategy-Zero_Information_Loss_Protocol_1.md
+from-obsidian-main/Debriefs/File_Management_and_Cleanup_Strategy-Zero_Information_Loss_Protocol_1.md
+
+=== Checksum: 46e2fe82a1b46ddb8cb665ec9c394ea1 ===
+from-external-1/The_Debrief_Machine-From_Chaos_to_Clarity_in_60_Days.md
+from-external-2/The_Debrief_Machine-From_Chaos_to_Clarity_in_60_Days.md
+from-external-3/The_Debrief_Machine-From_Chaos_to_Clarity_in_60_Days.md
+from-obsidian-main/The_Debrief_Machine-From_Chaos_to_Clarity_in_60_Days.md
+
+=== Checksum: 48d79f45134818c5d3669bb2a1f9c2d5 ===
+from-external-1/Debriefs/Complete_Version_History_and_Guide.md
+from-external-2/Debriefs/Complete_Version_History_and_Guide.md
+from-external-3/Debriefs/Complete_Version_History_and_Guide.md
+from-obsidian-main/Debriefs/Complete_Version_History_and_Guide.md
+
+=== Checksum: 4ac5d116564729e81ce9c8a91ce30e6c ===
+from-external-2/Debriefs/Debrief_Machine_v3.0_Enhancement_Project-Comprehensive_Briefing_v1.0.0.md
+from-external-3/Debriefs/Debrief_Machine_v3.0_Enhancement_Project-Comprehensive_Briefing_v1.0.0.md
+from-obsidian-main/Debriefs/Debrief_Machine_v3.0_Enhancement_Project-Comprehensive_Briefing_v1.0.0.md
+
+=== Checksum: 4be2b2db18aac247386415a9896d8cdd ===
+from-external-3/Project_Deliverabies,_Requirements_and_Decisions/Platform_TOS_Critical_Analysis_and_Immediate_Action_Plan.md
+from-obsidian-main/Project_Deliverabies,_Requirements_and_Decisions/Platform_TOS_Critical_Analysis_and_Immediate_Action_Plan.md
+
+=== Checksum: 4c238dd48dcee94883b18a115556db57 ===
+from-external-1/Prompt_Archive/The_Debrief_Machine_v2.4.0.0.0-Comprehensive_Enhancement_Edition.md
+from-external-1/Prompt_Archive/The_Debrief_Machine_v2.4.0.0-Comprehensive_Enhancement_Edition.md
+from-external-2/Prompt_Archive/The_Debrief_Machine_v2.4.0.0.0-Comprehensive_Enhancement_Edition.md
+from-external-2/Prompt_Archive/The_Debrief_Machine_v2.4.0.0-Comprehensive_Enhancement_Edition.md
+from-external-3/Prompt_Archive/The_Debrief_Machine_v2.4.0.0.0-Comprehensive_Enhancement_Edition.md
+from-external-3/Prompt_Archive/The_Debrief_Machine_v2.4.0.0-Comprehensive_Enhancement_Edition.md
+from-obsidian-main/Prompt_Archive/The_Debrief_Machine_v2.4.0.0.0-Comprehensive_Enhancement_Edition.md
+from-obsidian-main/Prompt_Archive/The_Debrief_Machine_v2.4.0.0-Comprehensive_Enhancement_Edition.md
+
+=== Checksum: 4d15eb644aee5cb80433a126db5f4798 ===
+from-external-1/Debriefs/Complete_Project_Continuity_Briefing_Prompt_v2.0.md
+from-external-2/Debriefs/Complete_Project_Continuity_Briefing_Prompt_v2.0.md
+from-external-3/Debriefs/Complete_Project_Continuity_Briefing_Prompt_v2.0.md
+from-obsidian-main/Debriefs/Complete_Project_Continuity_Briefing_Prompt_v2.0.md
+
+=== Checksum: 4d1b5b0e0b2a862763e0bd8aa0b69e0d ===
+from-external-3/Prompt_Archive/CONTINUOUS_REVIEW_and_IMPROVEMENT_OF_ALL_EXISTING_ARTIFACTS-1.md
+from-obsidian-main/Prompt_Archive/CONTINUOUS_REVIEW_and_IMPROVEMENT_OF_ALL_EXISTING_ARTIFACTS-1.md
+
+=== Checksum: 4db412c1001570f726a3516276122a7b ===
+from-external-2/Prompt_Archive/Complete_Collection_with_Enhanced_Project_Audit_v2.3.0_1.md
+from-external-3/Prompt_Archive/Complete_Collection_with_Enhanced_Project_Audit_v2.3.0_1.md
+from-obsidian-main/Prompt_Archive/Complete_Collection_with_Enhanced_Project_Audit_v2.3.0_1.md
+
+=== Checksum: 4e903d64ef51ad1baed296132c16a3bc ===
+from-external-1/Debriefs/Complete_Version_Tracking_v2.1.0.md
+from-external-2/Debriefs/Complete_Version_Tracking_v2.1.0.md
+from-external-3/Debriefs/Complete_Version_Tracking_v2.1.0.md
+from-obsidian-main/Debriefs/Complete_Version_Tracking_v2.1.0.md
+
+=== Checksum: 4fdf17bf7c8aaf16607345ed1d4a3390 ===
+from-external-1/Prompt_Archive/Perplexity_Edition_v2.1.md
+from-external-2/Prompt_Archive/Perplexity_Edition_v2.1.md
+from-external-3/Prompt_Archive/Perplexity_Edition_v2.1.md
+from-obsidian-main/Prompt_Archive/Perplexity_Edition_v2.1.md
+
+=== Checksum: 522fd2cbd490daadb3094231dd0603fb ===
+from-external-2/Debriefs/Enhanced_Consolidated_Analysis-Comprehensive_Enhancement_v2.0_1.md
+from-external-3/Debriefs/Enhanced_Consolidated_Analysis-Comprehensive_Enhancement_v2.0_1.md
+from-obsidian-main/Debriefs/Enhanced_Consolidated_Analysis-Comprehensive_Enhancement_v2.0_1.md
+
+=== Checksum: 54690a33d8b1b852f235b6a30dc96883 ===
+from-external-1/Prompt_Archive/ADHD-Friendly_Teaching_Guide_v3.0-Session_Documentation_Edition.md
+from-external-2/Prompt_Archive/ADHD-Friendly_Teaching_Guide_v3.0-Session_Documentation_Edition.md
+from-external-3/Prompt_Archive/ADHD-Friendly_Teaching_Guide_v3.0-Session_Documentation_Edition.md
+from-obsidian-main/Prompt_Archive/ADHD-Friendly_Teaching_Guide_v3.0-Session_Documentation_Edition.md
+
+=== Checksum: 558e4bc14538f49996937ae961861870 ===
+from-external-2/Prompt_Archive/The_Complete_Debrief_Machine_Collection_v3.0-Tech_Enhanced_Edition.md
+from-external-3/Prompt_Archive/The_Complete_Debrief_Machine_Collection_v3.0-Tech_Enhanced_Edition.md
+from-obsidian-main/Prompt_Archive/The_Complete_Debrief_Machine_Collection_v3.0-Tech_Enhanced_Edition.md
+
+=== Checksum: 57764ac04c09d20962c59e4dd09c1cfc ===
+from-external-1/Debriefs/Final_Compliance_Verification_and_Implementation_Checklist.md
+from-external-2/Debriefs/Final_Compliance_Verification_and_Implementation_Checklist.md
+from-external-3/Debriefs/Final_Compliance_Verification_and_Implementation_Checklist.md
+from-obsidian-main/Debriefs/Final_Compliance_Verification_and_Implementation_Checklist.md
+
+=== Checksum: 5855e9b82d35e08386f703d9040333b9 ===
+from-external-2/Debriefs/Master_Consolidated_Brand_Strategy_and_Implementation_Framework-Complete_Project_Analysis_v5.0.md
+from-external-3/Debriefs/Master_Consolidated_Brand_Strategy_and_Implementation_Framework-Complete_Project_Analysis_v5.0.md
+from-obsidian-main/Debriefs/Master_Consolidated_Brand_Strategy_and_Implementation_Framework-Complete_Project_Analysis_v5.0.md
+
+=== Checksum: 58cd80e6b528cc7decbf48d711a28f73 ===
+from-external-3/Debriefs/Debrief_Machine_v3.0_System_Development-Master_Tech_Briefing_v3.0.md
+from-obsidian-main/Debriefs/Debrief_Machine_v3.0_System_Development-Master_Tech_Briefing_v3.0.md
+
+=== Checksum: 591caea0bb25551c9f07764424cd2695 ===
+from-external-2/Prompt_Archive/The_Debrief_Machine_v3.0.0.0-Complete_Comprehensive_Prompt_Library.md
+from-external-3/Prompt_Archive/The_Debrief_Machine_v3.0.0.0-Complete_Comprehensive_Prompt_Library.md
+from-obsidian-main/Prompt_Archive/The_Debrief_Machine_v3.0.0.0-Complete_Comprehensive_Prompt_Library.md
+
+=== Checksum: 597774a22f861db6dfcabdf2859cbfe0 ===
+from-external-1/Debriefs/Auto-Trigger_Detection_Development-Project_Briefing.md
+from-external-2/Debriefs/Auto-Trigger_Detection_Development-Project_Briefing.md
+from-external-3/Debriefs/Auto-Trigger_Detection_Development-Project_Briefing.md
+from-obsidian-main/Debriefs/Auto-Trigger_Detection_Development-Project_Briefing.md
+
+=== Checksum: 5a9a41db9710eb614d888d50ddebb421 ===
+from-external-3/Project_Deliverabies,_Requirements_and_Decisions/Complete_Version_History_and_Evolution_Guide_v2.1.3.md
+from-obsidian-main/Project_Deliverabies,_Requirements_and_Decisions/Complete_Version_History_and_Evolution_Guide_v2.1.3.md
+
+=== Checksum: 5ccdf76e4c1bdaff1d07a4f2fedabab6 ===
+from-external-2/Debriefs/Debrief_Trigger_System_Implementation-Project_Briefing_v2.1.3.md
+from-external-3/Debriefs/Debrief_Trigger_System_Implementation-Project_Briefing_v2.1.3.md
+from-obsidian-main/Debriefs/Debrief_Trigger_System_Implementation-Project_Briefing_v2.1.3.md
+
+=== Checksum: 5cd505c20057af38b7d727f85c826330 ===
+from-external-1/Prompt_Archive/CLAUDE_RESEARCH_SYSTEM_v2.1.0.0-COPY-PASTE_READY.md
+from-external-2/Prompt_Archive/CLAUDE_RESEARCH_SYSTEM_v2.1.0.0-COPY-PASTE_READY.md
+from-external-3/Prompt_Archive/CLAUDE_RESEARCH_SYSTEM_v2.1.0.0-COPY-PASTE_READY.md
+from-obsidian-main/Prompt_Archive/CLAUDE_RESEARCH_SYSTEM_v2.1.0.0-COPY-PASTE_READY.md
+
+=== Checksum: 5d0019edfe575bdd4b4aaade2eef9f98 ===
+from-external-2/Debriefs/Systematic_Artifact_Review_and_Critical_Analysis_v1.0.md
+from-external-3/Debriefs/Systematic_Artifact_Review_and_Critical_Analysis_v1.0.md
+from-obsidian-main/Debriefs/Systematic_Artifact_Review_and_Critical_Analysis_v1.0.md
+
+=== Checksum: 5d6e30087ae5bfe2e7cf03005b6afc61 ===
+from-external-2/Debriefs/Auto-Trigger_Detection_System_Implementation-Project_Briefing_1.md
+from-external-3/Debriefs/Auto-Trigger_Detection_System_Implementation-Project_Briefing_1.md
+from-obsidian-main/Debriefs/Auto-Trigger_Detection_System_Implementation-Project_Briefing_1.md
+
+=== Checksum: 5df29b93fd01ab82df37ac70e0827f65 ===
+from-external-2/Debriefs/Enhanced_Consolidated_Analysis-Comprehensive_Enhancement_v2.0.0.md
+from-external-3/Debriefs/Enhanced_Consolidated_Analysis-Comprehensive_Enhancement_v2.0.0.md
+from-obsidian-main/Debriefs/Enhanced_Consolidated_Analysis-Comprehensive_Enhancement_v2.0.0.md
+
+=== Checksum: 5e0b3cb19797f032a76c68d1f5d8c72f ===
+from-external-2/Prompt_Archive/Debrief_Machine_Prompts_for_Documentation_Templates-1.md
+from-external-3/Prompt_Archive/Debrief_Machine_Prompts_for_Documentation_Templates-1.md
+from-obsidian-main/Prompt_Archive/Debrief_Machine_Prompts_for_Documentation_Templates-1.md
+
+=== Checksum: 5e7767ef27adcd3e233f1f7b02541f7a ===
+from-external-2/Debriefs/Debrief_Machine_v3.0_Enhancement_Project-Comprehensive_Briefing_v1.0.md
+from-external-3/Debriefs/Debrief_Machine_v3.0_Enhancement_Project-Comprehensive_Briefing_v1.0.md
+from-obsidian-main/Debriefs/Debrief_Machine_v3.0_Enhancement_Project-Comprehensive_Briefing_v1.0.md
+
+=== Checksum: 5f5a77e3ba4181ae5f0e88512844454b ===
+from-external-1/Debriefs/Complete_Research_Questions_Framework-Strategic_Knowledge_Gap_Analysis_v2.0.md
+from-external-2/Debriefs/Complete_Research_Questions_Framework-Strategic_Knowledge_Gap_Analysis_v2.0.md
+from-external-3/Debriefs/Complete_Research_Questions_Framework-Strategic_Knowledge_Gap_Analysis_v2.0.md
+from-obsidian-main/Debriefs/Complete_Research_Questions_Framework-Strategic_Knowledge_Gap_Analysis_v2.0.md
+
+=== Checksum: 6211c4b860e3b64b5f30850caa4f861c ===
+from-external-2/Debriefs/Enhanced_Consolidated_Analysis-Debrief_Machine_Project_v2.0.0.md
+from-external-3/Debriefs/Enhanced_Consolidated_Analysis-Debrief_Machine_Project_v2.0.0.md
+from-obsidian-main/Debriefs/Enhanced_Consolidated_Analysis-Debrief_Machine_Project_v2.0.0.md
+
+=== Checksum: 62cc07b54ca7d4ee16157828017b14fa ===
+from-external-1/Prompt_Archive/Continue_Project-Simple_Prompt_Addition.md
+from-external-2/Prompt_Archive/Continue_Project-Simple_Prompt_Addition.md
+from-external-3/Prompt_Archive/Continue_Project-Simple_Prompt_Addition.md
+from-obsidian-main/Prompt_Archive/Continue_Project-Simple_Prompt_Addition.md
+
+=== Checksum: 65a5f43cde1a89dea8363cba856e203f ===
+from-external-1/Prompt_Archive/ChatGPT_Debrief_Prompts_v2.1.0-Complete.md
+from-external-2/Prompt_Archive/ChatGPT_Debrief_Prompts_v2.1.0-Complete.md
+from-external-3/Prompt_Archive/ChatGPT_Debrief_Prompts_v2.1.0-Complete.md
+from-obsidian-main/Prompt_Archive/ChatGPT_Debrief_Prompts_v2.1.0-Complete.md
+
+=== Checksum: 65b5aa652bd67a2b86b9a9cf77f12582 ===
+from-external-1/Debriefs/Debrief_Machine_Enhancement_and_Integration_Project-Tech_Briefing_v2.0.md
+from-external-2/Debriefs/Debrief_Machine_Enhancement_and_Integration_Project-Tech_Briefing_v2.0.md
+from-external-3/Debriefs/Debrief_Machine_Enhancement_and_Integration_Project-Tech_Briefing_v2.0.md
+from-obsidian-main/Debriefs/Debrief_Machine_Enhancement_and_Integration_Project-Tech_Briefing_v2.0.md
+
+=== Checksum: 669b1d3cbcbd2746e949facdc6b2af8f ===
+from-external-1/Prompt_Archive/Perplexity_Debrief_Prompts_v2.1.0.0.0.md
+from-external-2/Prompt_Archive/Perplexity_Debrief_Prompts_v2.1.0.0.0.md
+from-external-3/Prompt_Archive/Perplexity_Debrief_Prompts_v2.1.0.0.0.md
+from-obsidian-main/Prompt_Archive/Perplexity_Debrief_Prompts_v2.1.0.0.0.md
+
+=== Checksum: 6824c45858b31c96c24caaf8b985e4e5 ===
+from-external-3/Prompt_Archive/CONTINUOUS_REVIEW_and_IMPROVEMENT_OF_ALL_EXISTING_ARTIFACTS.md
+from-obsidian-main/Prompt_Archive/CONTINUOUS_REVIEW_and_IMPROVEMENT_OF_ALL_EXISTING_ARTIFACTS.md
+
+=== Checksum: 68273ffa420d2512231611fd26bd9ed4 ===
+from-external-3/Prompt_Archive/Standalone_Enhance_Prompt-1.md
+from-obsidian-main/Prompt_Archive/Standalone_Enhance_Prompt-1.md
+
+=== Checksum: 693738137b17ea5166b28006fd53f12d ===
+from-external-2/Debriefs/Debrief_Machine_System_Development_and_Review-Final_Project_Briefing_v3.1.md
+from-external-3/Debriefs/Debrief_Machine_System_Development_and_Review-Final_Project_Briefing_v3.1.md
+from-obsidian-main/Debriefs/Debrief_Machine_System_Development_and_Review-Final_Project_Briefing_v3.1.md
+
+=== Checksum: 695dbe62309d75fb420a39cc645dbbcb ===
+from-external-1/Prompt_Archive/ANALYSIS-FOCUSED_Standalone_Edition_v2.4.0.md
+from-external-2/Prompt_Archive/ANALYSIS-FOCUSED_Standalone_Edition_v2.4.0.md
+from-external-3/Prompt_Archive/ANALYSIS-FOCUSED_Standalone_Edition_v2.4.0.md
+from-obsidian-main/Prompt_Archive/ANALYSIS-FOCUSED_Standalone_Edition_v2.4.0.md
+
+=== Checksum: 6a63afe2abf6c7fd2f96f2dd32bd44fb ===
+from-external-2/Debriefs/Auto-Trigger_Detection_System_Troubleshooting-Project_Briefing_v2.1.2.md
+from-external-3/Debriefs/Auto-Trigger_Detection_System_Troubleshooting-Project_Briefing_v2.1.2.md
+from-obsidian-main/Debriefs/Auto-Trigger_Detection_System_Troubleshooting-Project_Briefing_v2.1.2.md
+
+=== Checksum: 6a8047e40a553b5413f259a54630f8f0 ===
+from-external-2/Prompt_Archive/All_Platforms_Collection.md
+from-external-3/Prompt_Archive/All_Platforms_Collection.md
+from-obsidian-main/Prompt_Archive/All_Platforms_Collection.md
+
+=== Checksum: 6b7430558a9f30f4eeadf747fd0d446e ===
+from-external-1/Debriefs/The_Debrief_Machine-ChatGPT_Playback_Prompt_v2.0.1.0.md
+from-external-2/Debriefs/The_Debrief_Machine-ChatGPT_Playback_Prompt_v2.0.1.0.md
+from-external-3/Debriefs/The_Debrief_Machine-ChatGPT_Playback_Prompt_v2.0.1.0.md
+from-obsidian-main/Debriefs/The_Debrief_Machine-ChatGPT_Playback_Prompt_v2.0.1.0.md
+
+=== Checksum: 6c1794123b07d159926d24906bd4d3a5 ===
+from-external-2/Debriefs/Debrief_System_Enhancement-Project_Briefing_v2.1.4.0.md
+from-external-3/Debriefs/Debrief_System_Enhancement-Project_Briefing_v2.1.4.0.md
+from-obsidian-main/Debriefs/Debrief_System_Enhancement-Project_Briefing_v2.1.4.0.md
+
+=== Checksum: 6fd2fa371d85866ff6e63a6741f6b1bd ===
+from-external-2/Debriefs/Debrief_System_Enhancement-Project_Briefing_v2.1.4.0.0.md
+from-external-3/Debriefs/Debrief_System_Enhancement-Project_Briefing_v2.1.4.0.0.md
+from-obsidian-main/Debriefs/Debrief_System_Enhancement-Project_Briefing_v2.1.4.0.0.md
+
+=== Checksum: 703c618e512a810b5eb8d04eda137900 ===
+from-external-2/Prompt_Archive/Comprehensive_Debrief_Enhancement_Prompt_v2.0-STANDALONE_EDITION.md
+from-external-3/Prompt_Archive/Comprehensive_Debrief_Enhancement_Prompt_v2.0-STANDALONE_EDITION.md
+from-obsidian-main/Prompt_Archive/Comprehensive_Debrief_Enhancement_Prompt_v2.0-STANDALONE_EDITION.md
+
+=== Checksum: 70952a63ca033570b56fbc51f9f794f7 ===
+from-external-2/Debriefs/Comprehensive_Debrief_Machine_System_Development-Project_Briefing_v2.1.5.md
+from-external-3/Debriefs/Comprehensive_Debrief_Machine_System_Development-Project_Briefing_v2.1.5.md
+from-obsidian-main/Debriefs/Comprehensive_Debrief_Machine_System_Development-Project_Briefing_v2.1.5.md
+
+=== Checksum: 7332149e99d37ad0626bd1f6b6322ec5 ===
+from-external-1/Prompt_Archive/Claude_Project_Edition_with_Project_Audit.md
+from-external-2/Prompt_Archive/Claude_Project_Edition_with_Project_Audit.md
+from-external-3/Prompt_Archive/Claude_Project_Edition_with_Project_Audit.md
+from-obsidian-main/Prompt_Archive/Claude_Project_Edition_with_Project_Audit.md
+
+=== Checksum: 738f357ba3e36cee3f3c563cfb814dea ===
+from-external-2/Prompt_Archive/Enhancement_and_Completion-Project_Briefing_v2.3.0.md
+from-external-3/Prompt_Archive/Enhancement_and_Completion-Project_Briefing_v2.3.0.md
+from-obsidian-main/Prompt_Archive/Enhancement_and_Completion-Project_Briefing_v2.3.0.md
+
+=== Checksum: 74de378269866eeddf38a0dc276968a7 ===
+from-external-1/Debriefs/Comprehensive_Review_and_Critique_v1.0.md
+from-external-2/Debriefs/Comprehensive_Review_and_Critique_v1.0.md
+from-external-3/Debriefs/Comprehensive_Review_and_Critique_v1.0.md
+from-obsidian-main/Debriefs/Comprehensive_Review_and_Critique_v1.0.md
+
+=== Checksum: 75bda829331bb2acfc1c0f116e0aca87 ===
+from-external-1/Prompt_Archive/CHATGPT_EDITION_v2.3.0.md
+from-external-2/Prompt_Archive/CHATGPT_EDITION_v2.3.0.md
+from-external-3/Prompt_Archive/CHATGPT_EDITION_v2.3.0.md
+from-obsidian-main/Prompt_Archive/CHATGPT_EDITION_v2.3.0.md
+
+=== Checksum: 75cc17b47e8ac97ecf01a5d8d2719d23 ===
+from-external-1/Prompt_Archive/CLAUDE_PROJECT_EDITION_v2.3.0.md
+from-external-2/Prompt_Archive/CLAUDE_PROJECT_EDITION_v2.3.0.md
+from-external-3/Prompt_Archive/CLAUDE_PROJECT_EDITION_v2.3.0.md
+from-obsidian-main/Prompt_Archive/CLAUDE_PROJECT_EDITION_v2.3.0.md
+
+=== Checksum: 76f501ed59484e515435c2a9fef19540 ===
+from-external-3/Prompt_Archive/ANALYSIS-FOCUSED_Standalone_Edition.md
+from-obsidian-main/Prompt_Archive/ANALYSIS-FOCUSED_Standalone_Edition.md
+
+=== Checksum: 77d7e87ef775275a50e7f19bef02c5e7 ===
+from-external-2/Debriefs/Cross-Platform_Documentation_System_Development-Session_Analysis_v2.1.4.md
+from-external-3/Debriefs/Cross-Platform_Documentation_System_Development-Session_Analysis_v2.1.4.md
+from-obsidian-main/Debriefs/Cross-Platform_Documentation_System_Development-Session_Analysis_v2.1.4.md
+
+=== Checksum: 785672c4a73107c2796259025a353eb4 ===
+from-external-1/Prompt_Archive/CLAUDE_RESEARCH_SYSTEM_v2.1.0-COPY-PASTE_READY_1.md
+from-external-1/Prompt_Archive/CLAUDE_RESEARCH_SYSTEM_v2.1.0-COPY-PASTE_READY_2.md
+from-external-2/Prompt_Archive/CLAUDE_RESEARCH_SYSTEM_v2.1.0-COPY-PASTE_READY_1.md
+from-external-2/Prompt_Archive/CLAUDE_RESEARCH_SYSTEM_v2.1.0-COPY-PASTE_READY_2.md
+from-external-3/Prompt_Archive/CLAUDE_RESEARCH_SYSTEM_v2.1.0-COPY-PASTE_READY_1.md
+from-external-3/Prompt_Archive/CLAUDE_RESEARCH_SYSTEM_v2.1.0-COPY-PASTE_READY_2.md
+from-obsidian-main/Prompt_Archive/CLAUDE_RESEARCH_SYSTEM_v2.1.0-COPY-PASTE_READY_1.md
+from-obsidian-main/Prompt_Archive/CLAUDE_RESEARCH_SYSTEM_v2.1.0-COPY-PASTE_READY_2.md
+
+=== Checksum: 789d428dc4ab85ed6af743fe73b58fc1 ===
+from-external-1/Debriefs/Systematic_Artifact_Review_and_Compliance_Audit_v1.0.md
+from-external-2/Debriefs/Systematic_Artifact_Review_and_Compliance_Audit_v1.0.md
+from-external-3/Debriefs/Systematic_Artifact_Review_and_Compliance_Audit_v1.0.md
+from-obsidian-main/Debriefs/Systematic_Artifact_Review_and_Compliance_Audit_v1.0.md
+
+=== Checksum: 78c309c39d0a39bef2a1cd9b9512d522 ===
+from-external-1/Prompt_Archive/The_Debrief_Machine_v2.1.4_Legal_Edition-Consumer_Protection_Framework.md
+from-external-2/Prompt_Archive/The_Debrief_Machine_v2.1.4_Legal_Edition-Consumer_Protection_Framework.md
+from-external-3/Prompt_Archive/The_Debrief_Machine_v2.1.4_Legal_Edition-Consumer_Protection_Framework.md
+from-obsidian-main/Prompt_Archive/The_Debrief_Machine_v2.1.4_Legal_Edition-Consumer_Protection_Framework.md
+
+=== Checksum: 78d616f2e147ac081e83c24f5704888f ===
+from-external-1/Prompt_Archive/Claude_Edition_with_Conflict_Detection.md
+from-external-2/Prompt_Archive/Claude_Edition_with_Conflict_Detection.md
+from-external-3/Prompt_Archive/Claude_Edition_with_Conflict_Detection.md
+from-obsidian-main/Prompt_Archive/Claude_Edition_with_Conflict_Detection.md
+
+=== Checksum: 7aee0da0f7c95cfefe1216c6b4f2047a ===
+from-external-1/Prompt_Archive/Auto-Trigger_Detection_System-Claude_Edition_v1.1.md
+from-external-2/Prompt_Archive/Auto-Trigger_Detection_System-Claude_Edition_v1.1.md
+from-external-3/Prompt_Archive/Auto-Trigger_Detection_System-Claude_Edition_v1.1.md
+from-obsidian-main/Prompt_Archive/Auto-Trigger_Detection_System-Claude_Edition_v1.1.md
+
+=== Checksum: 7b225e9837d59b0da3d27ff718ed067b ===
+from-external-2/Prompt_Archive/Complete_Prompts_v2.1.0-FULLY_DETAILED.md
+from-external-3/Prompt_Archive/Complete_Prompts_v2.1.0-FULLY_DETAILED.md
+from-obsidian-main/Prompt_Archive/Complete_Prompts_v2.1.0-FULLY_DETAILED.md
+
+=== Checksum: 7ba37f1b4600717e93db796ea08cf1cf ===
+from-external-2/Debriefs/Autonomous_Debrief_System_Development-Project_Briefing_v2.2.0.md
+from-external-3/Debriefs/Autonomous_Debrief_System_Development-Project_Briefing_v2.2.0.md
+from-obsidian-main/Debriefs/Autonomous_Debrief_System_Development-Project_Briefing_v2.2.0.md
+
+=== Checksum: 7bc2ba1f3a0a7afda17c01d66f5079b9 ===
+from-external-3/Project_Deliverabies,_Requirements_and_Decisions/Comprehensive_Deliverables_Tracking-Complete_Project_Portfolio.md
+from-obsidian-main/Project_Deliverabies,_Requirements_and_Decisions/Comprehensive_Deliverables_Tracking-Complete_Project_Portfolio.md
+
+=== Checksum: 7c4561ef6b90fa8502465a978cd5b4e9 ===
+from-external-3/The_Debrief_Machine-Complete_Sections,_Tables_and_Modules_Reference.md
+from-obsidian-main/The_Debrief_Machine-Complete_Sections,_Tables_and_Modules_Reference.md
+
+=== Checksum: 7e3509c108dc8bea88fee02db9a021c7 ===
+from-external-2/Debriefs/Brand_Strategy_and_Multi-Platform_Content_Development-Final_Comprehensive_Debrief_v3.0.md
+from-external-3/Debriefs/Brand_Strategy_and_Multi-Platform_Content_Development-Final_Comprehensive_Debrief_v3.0.0.md
+from-external-3/Debriefs/Brand_Strategy_and_Multi-Platform_Content_Development-Final_Comprehensive_Debrief_v3.0.md
+from-obsidian-main/Debriefs/Brand_Strategy_and_Multi-Platform_Content_Development-Final_Comprehensive_Debrief_v3.0.md
+
+=== Checksum: 8064822c31683e91e8083a41308e7e0a ===
+from-external-3/Prompt_Archive/FIXED_Edition_Execution-Focused_v2.4.0.md
+from-obsidian-main/Prompt_Archive/FIXED_Edition_Execution-Focused_v2.4.0.md
+from-obsidian-small/FIXED
+
+=== Checksum: 815614751159035060b5fc4e5770fbb9 ===
+from-external-1/Prompt_Archive/ChatGPT_Edition_v2.1.md
+from-external-2/Prompt_Archive/ChatGPT_Edition_v2.1.md
+from-external-3/Prompt_Archive/ChatGPT_Edition_v2.1.md
+from-obsidian-main/Prompt_Archive/ChatGPT_Edition_v2.1.md
+
+=== Checksum: 81ef13adb50553b37062f5290ae49cf9 ===
+from-external-1/Prompt_Archive/Complete_Prompt_Collection_v2.1.0.md
+from-external-2/Prompt_Archive/Complete_Prompt_Collection_v2.1.0.md
+from-external-3/Prompt_Archive/Complete_Prompt_Collection_v2.1.0.md
+from-obsidian-main/Prompt_Archive/Complete_Prompt_Collection_v2.1.0.md
+
+=== Checksum: 8257d7318037df94285904d5055316ab ===
+from-external-3/Prompt_Archive/QUICK_COMPREHENSIVE_ENHANCEMENT_DEPLOYMENT.md
+from-obsidian-main/Prompt_Archive/QUICK_COMPREHENSIVE_ENHANCEMENT_DEPLOYMENT.md
+
+=== Checksum: 827045eb54feff49b4a0e2a0f2ce8057 ===
+from-external-2/Prompt_Archive/Complete_Debrief_Machine_Prompt_Collection_v2.1.4.md
+from-external-3/Prompt_Archive/Complete_Debrief_Machine_Prompt_Collection_v2.1.4.md
+from-obsidian-main/Prompt_Archive/Complete_Debrief_Machine_Prompt_Collection_v2.1.4.md
+
+=== Checksum: 82e2529080774c929f0cecc61438a6ae ===
+from-external-2/Debriefs/Enhancement_Conversation-Project_Briefing_v2.1.0.md
+from-external-3/Debriefs/Enhancement_Conversation-Project_Briefing_v2.1.0.md
+from-obsidian-main/Debriefs/Enhancement_Conversation-Project_Briefing_v2.1.0.md
+
+=== Checksum: 83f0228580d2d0402905230d8cabb643 ===
+from-external-3/Project_Deliverabies,_Requirements_and_Decisions/Zettelkasten-What_It_Really_Is_and_Whether_You_Need_It.md
+from-obsidian-main/Project_Deliverabies,_Requirements_and_Decisions/Zettelkasten-What_It_Really_Is_and_Whether_You_Need_It.md
+
+=== Checksum: 8467d667abaf499429d4fc49c7213239 ===
+from-obsidian-small/iterative-enhancement-prompt
+from-obsidian-small/iterative-enhancement-prompt
+
+=== Checksum: 850d3fc132498a8ee2bbcd621a3eee17 ===
+from-external-2/Prompt_Archive/Complete_Prompts_v2.1.0+-FULLY_DETAILED.md
+from-external-3/Prompt_Archive/Complete_Prompts_v2.1.0+-FULLY_DETAILED.md
+from-obsidian-main/Prompt_Archive/Complete_Prompts_v2.1.0+-FULLY_DETAILED.md
+
+=== Checksum: 8633e83e6978ffb0ead8f58a031c05e0 ===
+from-external-1/Prompt_Archive/Claude_Chat_Debrief_Prompt-Fixed.md
+from-external-2/Prompt_Archive/Claude_Chat_Debrief_Prompt-Fixed.md
+from-external-3/Prompt_Archive/Claude_Chat_Debrief_Prompt-Fixed.md
+from-obsidian-main/Prompt_Archive/Claude_Chat_Debrief_Prompt-Fixed.md
+
+=== Checksum: 870fb7bf3f7020f269fdd6b892035ee5 ===
+from-external-1/Prompt_Archive/Perplexity_Playback_Prompt_v2.0.1.0.md
+from-external-2/Prompt_Archive/Perplexity_Playback_Prompt_v2.0.1.0.md
+from-external-3/Prompt_Archive/Perplexity_Playback_Prompt_v2.0.1.0.md
+from-obsidian-main/Prompt_Archive/Perplexity_Playback_Prompt_v2.0.1.0.md
+
+=== Checksum: 885a67321b75746d916630903824c6c9 ===
+from-external-3/Project_Deliverabies,_Requirements_and_Decisions/Debrief_Machine_Implementation_Strategy_and_Best_Practices.md
+from-obsidian-main/Project_Deliverabies,_Requirements_and_Decisions/Debrief_Machine_Implementation_Strategy_and_Best_Practices.md
+
+=== Checksum: 88f4c21d52578cf190f68f86819919b3 ===
+from-external-3/Prompt_Archive/CONTINUOUS_REVIEW_and_IMPROVEMENT_PROTOCOL.md
+from-obsidian-main/Prompt_Archive/CONTINUOUS_REVIEW_and_IMPROVEMENT_PROTOCOL.md
+
+=== Checksum: 890803535ed75084744d9e8dd8511a47 ===
+from-external-1/Prompt_Archive/Organization_and_Version_Tracking_System.md
+from-external-2/Prompt_Archive/Organization_and_Version_Tracking_System.md
+from-external-3/Prompt_Archive/Organization_and_Version_Tracking_System.md
+from-obsidian-main/Prompt_Archive/Organization_and_Version_Tracking_System.md
+
+=== Checksum: 8947389e230eea3c3094d57e4db02bfc ===
+from-external-2/Debriefs/Enhanced_Consolidated_Analysis-Debrief_Machine_Project_v2.0.0.0.md
+from-external-3/Debriefs/Enhanced_Consolidated_Analysis-Debrief_Machine_Project_v2.0.0.0.md
+from-obsidian-main/Debriefs/Enhanced_Consolidated_Analysis-Debrief_Machine_Project_v2.0.0.0.md
+
+=== Checksum: 8aa0e60a46095d6e7c07570454867025 ===
+from-external-3/Project_Deliverabies,_Requirements_and_Decisions/Enhanced_Debrief_Machine_v3.0-Complete_Implementation_Specification.md
+from-obsidian-main/Project_Deliverabies,_Requirements_and_Decisions/Enhanced_Debrief_Machine_v3.0-Complete_Implementation_Specification.md
+
+=== Checksum: 8b1ad45055b4d3d3cce3fb5c8eb471a3 ===
+from-external-3/Project_Deliverabies,_Requirements_and_Decisions/Tanya_Marie_Davis-Complete_Brand_Strategy_and_Content_Implementation_Blueprint.md
+from-obsidian-main/Project_Deliverabies,_Requirements_and_Decisions/Tanya_Marie_Davis-Complete_Brand_Strategy_and_Content_Implementation_Blueprint.md
+
+=== Checksum: 8b2cc461f787909e64db69d9e637f1f3 ===
+from-external-1/Debriefs/Systematic_Artifact_Review_and_Enhancement_Analysis.md
+from-external-2/Debriefs/Systematic_Artifact_Review_and_Enhancement_Analysis.md
+from-external-3/Debriefs/Systematic_Artifact_Review_and_Enhancement_Analysis.md
+from-obsidian-main/Debriefs/Systematic_Artifact_Review_and_Enhancement_Analysis.md
+
+=== Checksum: 8c2ac1d543a4aefff6bf52554523255e ===
+from-external-1/Debriefs/System_Overview_and_Integration_Guide.md
+from-external-2/Debriefs/System_Overview_and_Integration_Guide.md
+from-external-3/Debriefs/System_Overview_and_Integration_Guide.md
+from-obsidian-main/Debriefs/System_Overview_and_Integration_Guide.md
+
+=== Checksum: 8c8c754693f66d14ab83651638f68192 ===
+from-external-1/Debriefs/Manual_Trigger_Detection_System_v2.1.3-Implementation_Guide.md
+from-external-2/Debriefs/Manual_Trigger_Detection_System_v2.1.3-Implementation_Guide.md
+from-external-3/Debriefs/Manual_Trigger_Detection_System_v2.1.3-Implementation_Guide.md
+from-obsidian-main/Debriefs/Manual_Trigger_Detection_System_v2.1.3-Implementation_Guide.md
+
+=== Checksum: 8c963cae06f6676e35d9d47afc49ea9e ===
+from-external-2/Prompt_Archive/The_Debrief_Machine_v3.0-Complete_Comprehensive_Prompt_Library.md
+from-external-3/Prompt_Archive/The_Debrief_Machine_v3.0,0-Complete_Comprehensive_Prompt_Library.md
+from-external-3/Prompt_Archive/The_Debrief_Machine_v3.0-Complete_Comprehensive_Prompt_Library.md
+from-obsidian-main/Prompt_Archive/The_Debrief_Machine_v3.0-Complete_Comprehensive_Prompt_Library.md
+
+=== Checksum: 8f14cc3e488dfe1abbb747045a426ffb ===
+from-external-1/Debriefs/Complete_Research_Questions_Framework-Strategic_Knowledge_Gap_Analysis.md
+from-external-2/Debriefs/Complete_Research_Questions_Framework-Strategic_Knowledge_Gap_Analysis.md
+from-external-3/Debriefs/Complete_Research_Questions_Framework-Strategic_Knowledge_Gap_Analysis.md
+from-obsidian-main/Debriefs/Complete_Research_Questions_Framework-Strategic_Knowledge_Gap_Analysis.md
+
+=== Checksum: 8f3f195a07dee38cf927b7e0c7b957a8 ===
+from-external-2/Debriefs/Debrief_Machine_Development-Comprehensive_Consolidation_Briefing_v2.2.0.md
+from-external-3/Debriefs/Debrief_Machine_Development-Comprehensive_Consolidation_Briefing_v2.2.0.md
+from-obsidian-main/Debriefs/Debrief_Machine_Development-Comprehensive_Consolidation_Briefing_v2.2.0.md
+
+=== Checksum: 8fbd394b584cce30ea4d90a5696edc41 ===
+from-obsidian-other/Identifying_Information_Conflicts.md
+from-obsidian-small/Identifying
+
+=== Checksum: 8fc6bba504ac5600649dd49c51d80490 ===
+from-external-1/Debriefs/Critical_gaps_in_your_AI_copyright_protection_system.md
+from-external-2/Debriefs/Critical_gaps_in_your_AI_copyright_protection_system.md
+from-external-3/Debriefs/Critical_gaps_in_your_AI_copyright_protection_system.md
+from-obsidian-main/Debriefs/Critical_gaps_in_your_AI_copyright_protection_system.md
+
+=== Checksum: 900e8c438106d9834c26af6aca720a04 ===
+from-external-1/Prompt_Archive/Universal_Personal_Context_Scanner.md
+from-external-2/Prompt_Archive/Universal_Personal_Context_Scanner.md
+from-external-3/Prompt_Archive/Universal_Personal_Context_Scanner.md
+from-obsidian-main/Prompt_Archive/Universal_Personal_Context_Scanner.md
+
+=== Checksum: 90cb6579fbcc97b86da243f36e15bb2e ===
+from-external-1/Debriefs/Debrief_Trigger_System_Implementation-Project_Briefing_v2.1.3.0.md
+from-external-2/Debriefs/Debrief_Trigger_System_Implementation-Project_Briefing_v2.1.3.0.md
+from-external-3/Debriefs/Debrief_Trigger_System_Implementation-Project_Briefing_v2.1.3.0.md
+from-obsidian-main/Debriefs/Debrief_Trigger_System_Implementation-Project_Briefing_v2.1.3.0.md
+
+=== Checksum: 9173682f8168e3420aaf14ac670b1ed5 ===
+from-external-2/Debriefs/Development_and_Testing-Project_Briefing_v2.1.4.md
+from-external-3/Debriefs/Development_and_Testing-Project_Briefing_v2.1.4.md
+from-obsidian-main/Debriefs/Development_and_Testing-Project_Briefing_v2.1.4.md
+
+=== Checksum: 91bacd2cf3766410685b1b6c4f9b877e ===
+from-external-1/Debriefs/Systematic_Review_and_Validation_Report.md
+from-external-2/Debriefs/Systematic_Review_and_Validation_Report.md
+from-external-3/Debriefs/Systematic_Review_and_Validation_Report.md
+from-obsidian-main/Debriefs/Systematic_Review_and_Validation_Report.md
+
+=== Checksum: 91ddaba2b57157c26f576b1a1acad750 ===
+from-external-2/Debriefs/Enhanced_Consolidated_Analysis-Debrief_Machine_Project_v2.0.md
+from-external-3/Debriefs/Enhanced_Consolidated_Analysis-Debrief_Machine_Project_v2.0.md
+from-obsidian-main/Debriefs/Enhanced_Consolidated_Analysis-Debrief_Machine_Project_v2.0.md
+
+=== Checksum: 94c5e89f2a4a4cdf3fb26a1f4eb97fdc ===
+from-external-1/Prompt_Archive/Perplexity_Playback_Prompt_v2.0.1_1.md
+from-external-2/Prompt_Archive/Perplexity_Playback_Prompt_v2.0.1_1.md
+from-external-3/Prompt_Archive/Perplexity_Playback_Prompt_v2.0.1_1.md
+from-obsidian-main/Prompt_Archive/Perplexity_Playback_Prompt_v2.0.1_1.md
+from-obsidian-small/perplexity_optimized_prompt
+
+=== Checksum: 95c768690fdd643bcad073f63c6e48d3 ===
+from-external-1/Prompt_Archive/ChatGPT_Edition_v2.1-1.md
+from-external-1/Prompt_Archive/ChatGPT_Edition_v2.1_1.md
+from-external-2/Prompt_Archive/ChatGPT_Edition_v2.1-1.md
+from-external-2/Prompt_Archive/ChatGPT_Edition_v2.1_1.md
+from-external-3/Prompt_Archive/ChatGPT_Edition_v2.1-1.md
+from-external-3/Prompt_Archive/ChatGPT_Edition_v2.1_1.md
+from-obsidian-main/Prompt_Archive/ChatGPT_Edition_v2.1-1.md
+from-obsidian-main/Prompt_Archive/ChatGPT_Edition_v2.1_1.md
+
+=== Checksum: 97bba2a2fd42cc6eb1dd4c71b3c21ea1 ===
+from-external-3/Project_Audit_Version_v2.4.0.md
+from-obsidian-main/Project_Audit_Version_v2.4.0.md
+
+=== Checksum: 98914ed16ed2507a0ef3d04a222c5e85 ===
+from-external-3/Debriefs/Brand_Strategy_and_Content_Pipeline_Development-Project_Briefing_v2.0.md
+from-obsidian-main/Debriefs/Brand_Strategy_and_Content_Pipeline_Development-Project_Briefing_v2.0.md
+
+=== Checksum: 99614099a142c9e1e1a88738e300f80e ===
+from-external-3/Debriefs/Debrief_Machine_v3.0_Final_Master_Briefing_v4.0-Complete_Project_Documentation.md
+from-obsidian-main/Debriefs/Debrief_Machine_v3.0_Final_Master_Briefing_v4.0-Complete_Project_Documentation.md
+
+=== Checksum: 9b2854f04e4ad8f75d159e77cc71c6c5 ===
+from-external-1/Debriefs/Debrief_Machine_Development_Multi-Platform_Content_Series.md
+from-external-2/Debriefs/Debrief_Machine_Development_Multi-Platform_Content_Series.md
+from-external-3/Debriefs/Debrief_Machine_Development_Multi-Platform_Content_Series.md
+from-obsidian-main/Debriefs/Debrief_Machine_Development_Multi-Platform_Content_Series.md
+
+=== Checksum: 9e619a9a561245774b6dad439f3dfd58 ===
+from-external-3/Debriefs/Debrief_Machine_Development-Project_Briefing_v1.0.md
+from-obsidian-main/Debriefs/Debrief_Machine_Development-Project_Briefing_v1.0.md
+
+=== Checksum: 9f68cec9dd86ddc4cd1084a71a150139 ===
+from-external-1/Prompt_Archive/ChatGPT_Edition_v2.0.1-Version_Analysis_and_Migration_Guidance.md
+from-external-2/Prompt_Archive/ChatGPT_Edition_v2.0.1-Version_Analysis_and_Migration_Guidance.md
+from-external-3/Prompt_Archive/ChatGPT_Edition_v2.0.1-Version_Analysis_and_Migration_Guidance.md
+from-obsidian-main/Prompt_Archive/ChatGPT_Edition_v2.0.1-Version_Analysis_and_Migration_Guidance.md
+
+=== Checksum: 9fa78fc120f493c54fc85ea6137aea8c ===
+from-external-1/Prompt_Archive/Comprehensive_Technical_Project_Debrief_Documentation-1.md
+from-external-2/Prompt_Archive/Comprehensive_Technical_Project_Debrief_Documentation-1.md
+from-external-3/Prompt_Archive/Comprehensive_Technical_Project_Debrief_Documentation-1.md
+from-obsidian-main/Prompt_Archive/Comprehensive_Technical_Project_Debrief_Documentation-1.md
+
+=== Checksum: 9fd47fb484393287b1eed0a50ed34401 ===
+from-external-1/Prompt_Archive/Claude_Edition_v2.1.0.md
+from-external-2/Prompt_Archive/Claude_Edition_v2.1.0.md
+from-external-3/Prompt_Archive/Claude_Edition_v2.1.0.md
+from-obsidian-main/Prompt_Archive/Claude_Edition_v2.1.0.md
+
+=== Checksum: a01d6cf7a957b03ba02d5dc6bbd9bfa0 ===
+from-external-1/Prompt_Archive/CLAUDE_CHAT_EDITION_v2.3.0.md
+from-external-2/Prompt_Archive/CLAUDE_CHAT_EDITION_v2.3.0.md
+from-external-3/Prompt_Archive/CLAUDE_CHAT_EDITION_v2.3.0.md
+from-obsidian-main/Prompt_Archive/CLAUDE_CHAT_EDITION_v2.3.0.md
+
+=== Checksum: a1485236c54dd671866ed12cdc575e76 ===
+from-external-2/Prompt_Archive/Complete_Prompts-FULLY_DETAILED_v2.1.0+.md
+from-external-3/Prompt_Archive/Complete_Prompts-FULLY_DETAILED_v2.1.0+.md
+from-obsidian-main/Prompt_Archive/Complete_Prompts-FULLY_DETAILED_v2.1.0+.md
+
+=== Checksum: a151c47dfb87b00eb057bffc6ca1d046 ===
+from-external-2/Debriefs/Debrief_Machine_Development-Project_Briefing_v1.0.0.md
+from-external-3/Debriefs/Debrief_Machine_Development-Project_Briefing_v1.0.0.md
+from-obsidian-main/Debriefs/Debrief_Machine_Development-Project_Briefing_v1.0.0.md
+
+=== Checksum: a16ffaac1c9d5b3a0a365e384dd319c4 ===
+from-external-1/Prompt_Archive/Perplexity_Playback_Prompt_v2.0.1.md
+from-external-2/Prompt_Archive/Perplexity_Playback_Prompt_v2.0.1.md
+from-external-3/Prompt_Archive/Perplexity_Playback_Prompt_v2.0.1.md
+from-obsidian-main/Prompt_Archive/Perplexity_Playback_Prompt_v2.0.1.md
+
+=== Checksum: a1afa877002c2c14d6a32101f5e509f3 ===
+from-external-2/Debriefs/Debrief_Machine_v3.0_Tech_Enhancement_Project-Final_Comprehensive_Briefing_v2.0.md
+from-external-3/Debriefs/Debrief_Machine_v3.0_Tech_Enhancement_Project-Final_Comprehensive_Briefing_v2.0.md
+from-obsidian-main/Debriefs/Debrief_Machine_v3.0_Tech_Enhancement_Project-Final_Comprehensive_Briefing_v2.0.md
+
+=== Checksum: a1c8f7ab94a4210868fa99773e382d2c ===
+from-external-1/Complete_Debrief_Machine_Project_Chat_List.md
+from-external-2/Complete_Debrief_Machine_Project_Chat_List.md
+from-external-3/Complete_Debrief_Machine_Project_Chat_List.md
+from-obsidian-main/Complete_Debrief_Machine_Project_Chat_List.md
+
+=== Checksum: a5462d0b2116ba1317f678ffbd323860 ===
+from-external-1/Prompt_Archive/ChatGPT_Debrief_Prompts_v2.1.0.md
+from-external-2/Prompt_Archive/ChatGPT_Debrief_Prompts_v2.1.0.md
+from-external-3/Prompt_Archive/ChatGPT_Debrief_Prompts_v2.1.0.md
+from-obsidian-main/Prompt_Archive/ChatGPT_Debrief_Prompts_v2.1.0.md
+
+=== Checksum: a5826500784115bb361c29a3e40c6285 ===
+from-external-1/Debriefs/Comprehensive_Deliverables_Tracking-Complete_Project_Execution_Timeline.md
+from-external-2/Debriefs/Comprehensive_Deliverables_Tracking-Complete_Project_Execution_Timeline.md
+from-external-3/Debriefs/Comprehensive_Deliverables_Tracking-Complete_Project_Execution_Timeline.md
+from-obsidian-main/Debriefs/Comprehensive_Deliverables_Tracking-Complete_Project_Execution_Timeline.md
+
+=== Checksum: a669c5fa03eeb267c281c98a3fa31219 ===
+from-external-2/Prompt_Archive/Master_Collection_with_ALL_Modules_and_Features_v3.0.md
+from-external-3/Prompt_Archive/Master_Collection_with_ALL_Modules_and_Features_v3.0.md
+from-obsidian-main/Prompt_Archive/Master_Collection_with_ALL_Modules_and_Features_v3.0.md
+
+=== Checksum: a72746195107d849bdfd509ea3d252f4 ===
+from-external-1/Prompt_Archive/Complete_Prompt_Collection_v2.1.0.0.md
+from-external-1/Prompt_Archive/Complete_Prompt_Collection_v2.1.0_1.md
+from-external-2/Prompt_Archive/Complete_Prompt_Collection_v2.1.0.0.md
+from-external-2/Prompt_Archive/Complete_Prompt_Collection_v2.1.0_1.md
+from-external-3/Prompt_Archive/Complete_Prompt_Collection_v2.1.0.0.md
+from-external-3/Prompt_Archive/Complete_Prompt_Collection_v2.1.0_1.md
+from-obsidian-main/Prompt_Archive/Complete_Prompt_Collection_v2.1.0.0.md
+from-obsidian-main/Prompt_Archive/Complete_Prompt_Collection_v2.1.0_1.md
+
+=== Checksum: a7493338f3983188397eac984efba353 ===
+from-external-3/Project_Deliverabies,_Requirements_and_Decisions/Tanya_Marie_Davis-Complete_Brand_Strategy_and_Content_Implementation_Blueprint-1.md
+from-obsidian-main/Project_Deliverabies,_Requirements_and_Decisions/Tanya_Marie_Davis-Complete_Brand_Strategy_and_Content_Implementation_Blueprint-1.md
+
+=== Checksum: aba807955c2fcb8108278bb7cacaceca ===
+from-external-3/Project_Deliverabies,_Requirements_and_Decisions/Master_Deliverables_Dashboard-COMPREHENSIVE_EXPANSION_.md
+from-obsidian-main/Project_Deliverabies,_Requirements_and_Decisions/Master_Deliverables_Dashboard-COMPREHENSIVE_EXPANSION_.md
+
+=== Checksum: ac116cea84de422ba0a54755f012cc12 ===
+from-external-1/Prompt_Archive/RESEARCH-FOCUSED_DEBRIEF_TRIGGER_SYSTEM_v2.1.0.md
+from-external-2/Prompt_Archive/RESEARCH-FOCUSED_DEBRIEF_TRIGGER_SYSTEM_v2.1.0.md
+from-external-3/Prompt_Archive/RESEARCH-FOCUSED_DEBRIEF_TRIGGER_SYSTEM_v2.1.0.md
+from-obsidian-main/Prompt_Archive/RESEARCH-FOCUSED_DEBRIEF_TRIGGER_SYSTEM_v2.1.0.md
+from-obsidian-small/research_focused_debrief_v2_1_0
+from-obsidian-small/research_focused_debrief_v2_1_0.md
+
+=== Checksum: ad377416354c106d58fb7d467ff7c01b ===
+from-external-2/Debriefs/The_Debrief_Machine_v2.3.0_Development-FINAL_ITERATIVE_DEBRIEF_v3.0.md
+from-external-3/Debriefs/The_Debrief_Machine_v2.3.0_Development-FINAL_ITERATIVE_DEBRIEF_v3.0.md
+from-obsidian-main/Debriefs/The_Debrief_Machine_v2.3.0_Development-FINAL_ITERATIVE_DEBRIEF_v3.0.md
+
+=== Checksum: ae9901d1714e188ec7c2e04a2d0a00f8 ===
+from-external-3/Project_Deliverabies,_Requirements_and_Decisions/Daily_Bridge_+_Constellation_System-Complete_Implementation_Guide.md
+from-obsidian-main/Project_Deliverabies,_Requirements_and_Decisions/Daily_Bridge_+_Constellation_System-Complete_Implementation_Guide.md
+
+=== Checksum: b0eefdc89ccb46c9fb4ce46233fe1c55 ===
+from-external-3/Debriefs/Debrief_Machine_v2.1.0_Enhancement_Project-Final_Briefing_v2.2.0.md
+from-obsidian-main/Debriefs/Debrief_Machine_v2.1.0_Enhancement_Project-Final_Briefing_v2.2.0.md
+
+=== Checksum: b321f37db5a8aa8e63fe511238583e8e ===
+from-external-1/Prompt_Archive/Complete_Research_Questions_Framework-Strategic_Intelligence.md
+from-external-2/Prompt_Archive/Complete_Research_Questions_Framework-Strategic_Intelligence.md
+from-external-3/Prompt_Archive/Complete_Research_Questions_Framework-Strategic_Intelligence.md
+from-obsidian-main/Prompt_Archive/Complete_Research_Questions_Framework-Strategic_Intelligence.md
+
+=== Checksum: b4a1d020fe6791d431895b6bfc4c27e6 ===
+from-external-2/Debriefs/Debrief_System_Future_Roadmap_and_Current_Completion-Project_Briefing_v3.0.md
+from-external-3/Debriefs/Debrief_System_Future_Roadmap_and_Current_Completion-Project_Briefing_v3.0.md
+from-obsidian-main/Debriefs/Debrief_System_Future_Roadmap_and_Current_Completion-Project_Briefing_v3.0.md
+
+=== Checksum: b52e1c9cddb285946bb0584840486b44 ===
+from-external-1/Debriefs/Optimization-Project_Briefing.md
+from-external-2/Debriefs/Optimization-Project_Briefing.md
+from-external-3/Debriefs/Optimization-Project_Briefing.md
+from-obsidian-main/Debriefs/Optimization-Project_Briefing.md
+
+=== Checksum: b6a4006a238da301b33280050ed7eb8e ===
+from-external-2/Prompt_Archive/Technical_Development_Requirements_Clarification_Process.md
+from-external-3/Prompt_Archive/Technical_Development_Requirements_Clarification_Process.md
+from-obsidian-main/Prompt_Archive/Technical_Development_Requirements_Clarification_Process.md
+
+=== Checksum: b6d98aaaa4025c7f9004b49d7f8cc680 ===
+from-external-1/Prompt_Archive/Claude_Edition_v2.1_1.md
+from-external-2/Prompt_Archive/Claude_Edition_v2.1_1.md
+from-external-3/Prompt_Archive/Claude_Edition_v2.1_1.md
+from-obsidian-main/Prompt_Archive/Claude_Edition_v2.1_1.md
+from-obsidian-small/debrief_machine_claude
+
+=== Checksum: b8a1db6921dfb11ad77fe82f3ad268b8 ===
+from-external-2/Debriefs/Version_Corruption_Discovery_and_Complete_System_Overhaul-Project_Briefing_v1.0.md
+from-external-3/Debriefs/Version_Corruption_Discovery_and_Complete_System_Overhaul-Project_Briefing_v1.0.md
+from-obsidian-main/Debriefs/Version_Corruption_Discovery_and_Complete_System_Overhaul-Project_Briefing_v1.0.md
+
+=== Checksum: bbdfac4fcea022386435e5dd860583e3 ===
+from-external-1/Debriefs/Production_Test-Project_Briefing.md
+from-external-2/Debriefs/Production_Test-Project_Briefing.md
+from-external-3/Debriefs/Production_Test-Project_Briefing.md
+from-obsidian-main/Debriefs/Production_Test-Project_Briefing.md
+
+=== Checksum: bc70b2410625a91c78497e2148cc6b92 ===
+from-external-3/Project_Deliverabies,_Requirements_and_Decisions/Zettelkasten-Style_Project_Files_Using_The_Debrief_Machine_v2.1.0.md
+from-obsidian-main/Project_Deliverabies,_Requirements_and_Decisions/Zettelkasten-Style_Project_Files_Using_The_Debrief_Machine_v2.1.0.md
+
+=== Checksum: bd3ff61831119e0422569e4b9bff99a5 ===
+from-external-2/Prompt_Archive/Complete_Collection_with_Enhanced_Project_Audit_v2.3.0.0.0.0.0.md
+from-external-3/Prompt_Archive/Complete_Collection_with_Enhanced_Project_Audit_v2.3.0.0.0.0.0.md
+from-obsidian-main/Prompt_Archive/Complete_Collection_with_Enhanced_Project_Audit_v2.3.0.0.0.0.0.md
+
+=== Checksum: bdadb6bb4b18a26df3a8f7b1033c61ec ===
+from-external-2/Debriefs/LLM-Switching_Debrief_Development-Project_Briefing_v2.1.3.md
+from-external-3/Debriefs/LLM-Switching_Debrief_Development-Project_Briefing_v2.1.3.md
+from-obsidian-main/Debriefs/LLM-Switching_Debrief_Development-Project_Briefing_v2.1.3.md
+
+=== Checksum: bdf3a69214ed6367df423d38c4f1f167 ===
+from-external-3/Prompt_Archive/Iterative_Enhancement_Prompt.md
+from-obsidian-main/Prompt_Archive/Iterative_Enhancement_Prompt.md
+from-obsidian-small/iterative-enhancement-prompt
+
+=== Checksum: bfbe90dd2866f986ebda552b5468f5d9 ===
+from-external-1/Prompt_Archive/Content_Identification_and_Multi-Platform_Pipeline.md
+from-external-2/Prompt_Archive/Content_Identification_and_Multi-Platform_Pipeline.md
+from-external-3/Prompt_Archive/Content_Identification_and_Multi-Platform_Pipeline.md
+from-obsidian-main/Prompt_Archive/Content_Identification_and_Multi-Platform_Pipeline.md
+
+=== Checksum: bfda49bceaab46a5b990de118909c364 ===
+from-external-1/Prompt_Archive/Claude_Playback_Prompt_v2.0.1.md
+from-external-2/Prompt_Archive/Claude_Playback_Prompt_v2.0.1.md
+from-external-3/Prompt_Archive/Claude_Playback_Prompt_v2.0.1.md
+from-obsidian-main/Prompt_Archive/Claude_Playback_Prompt_v2.0.1.md
+
+=== Checksum: c15db973f2dd0e495ac300a6baa3895e ===
+from-external-1/Debriefs/The_Debrief_Machine-Project_Briefing.md
+from-external-2/Debriefs/The_Debrief_Machine-Project_Briefing.md
+from-external-3/Debriefs/The_Debrief_Machine-Project_Briefing.md
+from-obsidian-main/Debriefs/The_Debrief_Machine-Project_Briefing.md
+
+=== Checksum: c4d9860f1b0d301ec5b0472d68881120 ===
+from-external-2/Prompt_Archive/Complete_Collection_with_Analysis_Emphasis_v2.4.0.md
+from-external-3/Prompt_Archive/Complete_Collection_with_Analysis_Emphasis_v2.4.0.md
+from-obsidian-main/Prompt_Archive/Complete_Collection_with_Analysis_Emphasis_v2.4.0.md
+
+=== Checksum: c52bdb3e3202d87a79db961e1510dda8 ===
+from-external-1/Prompt_Archive/Claude_Debrief_Prompts_v2.1.0.md
+from-external-2/Prompt_Archive/Claude_Debrief_Prompts_v2.1.0.md
+from-external-3/Prompt_Archive/Claude_Debrief_Prompts_v2.1.0.md
+from-obsidian-main/Prompt_Archive/Claude_Debrief_Prompts_v2.1.0.md
+
+=== Checksum: c8a1cbd220c96de827c73fa0f5df3389 ===
+from-external-1/Prompt_Archive/PERPLEXITY_EDITION_v2.3.0.md
+from-external-2/Prompt_Archive/PERPLEXITY_EDITION_v2.3.0.md
+from-external-3/Prompt_Archive/PERPLEXITY_EDITION_v2.3.0.md
+from-obsidian-main/Prompt_Archive/PERPLEXITY_EDITION_v2.3.0.md
+
+=== Checksum: c9cd727b83389a08996d71afdea3e536 ===
+from-external-1/Prompt_Archive/The_Debrief_Machine-ChatGPT_Playback_Prompt_v2.0.1.md
+from-external-2/Prompt_Archive/The_Debrief_Machine-ChatGPT_Playback_Prompt_v2.0.1.md
+from-external-3/Prompt_Archive/The_Debrief_Machine-ChatGPT_Playback_Prompt_v2.0.1.md
+from-obsidian-main/Prompt_Archive/The_Debrief_Machine-ChatGPT_Playback_Prompt_v2.0.1.md
+
+=== Checksum: ca1725fcdbab934029352cf6feaab002 ===
+from-external-1/Prompt_Archive/Claude_Debrief_Prompts_v2.1.0-Part_2_Strategic_Questions_and_Auto-Trigger_.md
+from-external-2/Prompt_Archive/Claude_Debrief_Prompts_v2.1.0-Part_2_Strategic_Questions_and_Auto-Trigger_.md
+from-external-3/Prompt_Archive/Claude_Debrief_Prompts_v2.1.0-Part_2_Strategic_Questions_and_Auto-Trigger_.md
+from-obsidian-main/Prompt_Archive/Claude_Debrief_Prompts_v2.1.0-Part_2_Strategic_Questions_and_Auto-Trigger_.md
+
+=== Checksum: cb4e2dc950a06944e84fa99cf12f7a83 ===
+from-external-3/Project_Deliverabies,_Requirements_and_Decisions/CONTROL_and_OVERRIDE_SOLUTIONS_ANALYSIS.md
+from-obsidian-main/Project_Deliverabies,_Requirements_and_Decisions/CONTROL_and_OVERRIDE_SOLUTIONS_ANALYSIS.md
+
+=== Checksum: cbf8db5a3f978d38a93e324e85cbf6d0 ===
+from-external-1/Debriefs/Final_Systematic_Review_and_Optimization_Cycle_v2.0.md
+from-external-2/Debriefs/Final_Systematic_Review_and_Optimization_Cycle_v2.0.md
+from-external-3/Debriefs/Final_Systematic_Review_and_Optimization_Cycle_v2.0.md
+from-obsidian-main/Debriefs/Final_Systematic_Review_and_Optimization_Cycle_v2.0.md
+
+=== Checksum: ccdf7261c6a292373d2f4af51c6dafa1 ===
+from-external-1/Prompt_Archive/UNIVERSAL_PLAYBACK_PROMPT_v2.3.0.md
+from-external-2/Prompt_Archive/UNIVERSAL_PLAYBACK_PROMPT_v2.3.0.md
+from-external-3/Prompt_Archive/UNIVERSAL_PLAYBACK_PROMPT_v2.3.0.md
+from-obsidian-main/Prompt_Archive/UNIVERSAL_PLAYBACK_PROMPT_v2.3.0.md
+
+=== Checksum: d00826e74aa299bac69242b3983adc0e ===
+from-external-1/Debriefs/Debrief_Machine_Enhancement-Project_Briefing_v1.0.md
+from-external-2/Debriefs/Debrief_Machine_Enhancement-Project_Briefing_v1.0.md
+from-external-3/Debriefs/Debrief_Machine_Enhancement-Project_Briefing_v1.0.md
+from-obsidian-main/Debriefs/Debrief_Machine_Enhancement-Project_Briefing_v1.0.md
+
+=== Checksum: d03b4ab6be3ad924f72b8faf1962c79c ===
+from-external-1/Prompt_Archive/Claude_Edition_v2.1.md
+from-external-2/Prompt_Archive/Claude_Edition_v2.1.md
+from-external-3/Prompt_Archive/Claude_Edition_v2.1.md
+from-obsidian-main/Prompt_Archive/Claude_Edition_v2.1.md
+
+=== Checksum: d0c917e5a4c14c53db09c03425571d8f ===
+from-external-1/Debriefs/ChatGPT_Debrief_Prompts_v2.1.0.0.md
+from-external-2/Debriefs/ChatGPT_Debrief_Prompts_v2.1.0.0.md
+from-external-3/Debriefs/ChatGPT_Debrief_Prompts_v2.1.0.0.md
+from-obsidian-main/Debriefs/ChatGPT_Debrief_Prompts_v2.1.0.0.md
+from-obsidian-small/ChatGPT
+
+=== Checksum: d101bd8681fb203f411cf02d75051081 ===
+from-external-1/Debriefs/AUTONOMOUS_DEBRIEF_SYSTEM_v2.2.0.md
+from-external-2/Debriefs/AUTONOMOUS_DEBRIEF_SYSTEM_v2.2.0.md
+from-external-3/Debriefs/AUTONOMOUS_DEBRIEF_SYSTEM_v2.2.0.md
+from-obsidian-main/Debriefs/AUTONOMOUS_DEBRIEF_SYSTEM_v2.2.0.md
+
+=== Checksum: d2c058a218fd3057dcc3e723f7c8f8c1 ===
+from-external-3/Prompt_Archive/Claude_Projects_Edition_v1.0.1-Live_Demo.md
+from-obsidian-main/Prompt_Archive/Claude_Projects_Edition_v1.0.1-Live_Demo.md
+
+=== Checksum: d41bdacf38e893ec9785b56c8b542654 ===
+from-external-1/Prompt_Archive/Project_Continuity_Briefing_Prompt_v2.0.md
+from-external-2/Prompt_Archive/Project_Continuity_Briefing_Prompt_v2.0.md
+from-external-3/Prompt_Archive/Project_Continuity_Briefing_Prompt_v2.0.md
+from-obsidian-main/Prompt_Archive/Project_Continuity_Briefing_Prompt_v2.0.md
+
+=== Checksum: d4943ecfe8e31ccfe0820ff2479f0442 ===
+from-external-3/Prompt_Archive/Complete_Debrief_Machine_Collection_v3.0-Master_Edition_with_All_Modules.md
+from-external-3/Prompt_Archive/The_Complete_Debrief_Machine_Collection_v3.0-Master_Edition_with_All_Modules.md
+from-obsidian-main/Prompt_Archive/Complete_Debrief_Machine_Collection_v3.0-Master_Edition_with_All_Modules.md
+
+=== Checksum: d50910f283c962b0e566949ac76254c3 ===
+from-external-2/Debriefs/Debrief_Machine_Enhancement_Conversation-Project_Briefing_v2.2.0.md
+from-external-3/Debriefs/Debrief_Machine_Enhancement_Conversation-Project_Briefing_v2.2.0.md
+from-obsidian-main/Debriefs/Debrief_Machine_Enhancement_Conversation-Project_Briefing_v2.2.0.md
+
+=== Checksum: d66b17b094650811276f68d46397ce7f ===
+from-external-1/Debriefs/Multi-Platform_Development-Project_Briefing.md
+from-external-2/Debriefs/Multi-Platform_Development-Project_Briefing.md
+from-external-3/Debriefs/Multi-Platform_Development-Project_Briefing.md
+from-obsidian-main/Debriefs/Multi-Platform_Development-Project_Briefing.md
+
+=== Checksum: d7b6fcff05daf6bff777fd7216f4931b ===
+from-external-1/Prompt_Archive/The_Debrief_Machine_v3.0-Tech_Projects_Edition.md
+from-external-2/Prompt_Archive/The_Debrief_Machine_v3.0-Tech_Projects_Edition.md
+from-external-3/Prompt_Archive/The_Debrief_Machine_v3.0-Tech_Projects_Edition.md
+from-obsidian-main/Prompt_Archive/The_Debrief_Machine_v3.0-Tech_Projects_Edition.md
+
+=== Checksum: d7fea3de7dafa55cfa05c4b1966f727a ===
+from-external-3/Prompt_Archive/Standalone_Enhancement_Prompt-2.md
+from-obsidian-main/Prompt_Archive/Standalone_Enhancement_Prompt-2.md
+
+=== Checksum: d8478a488c6895a87d51e8eec46b93d6 ===
+from-external-2/Current_Prompts/The_Debrief_Machine_v4-Complete_Enhanced_UNIVERSAL_System.md
+from-external-3/Current_Prompts/The_Debrief_Machine_v4-Complete_Enhanced_UNIVERSAL_System.md
+from-obsidian-main/Current_Prompts/The_Debrief_Machine_v4-Complete_Enhanced_UNIVERSAL_System.md
+
+=== Checksum: d86693d5812c953549ca239d17955877 ===
+from-external-1/Prompt_Archive/The_Debrief_Machine_v2.4.0-Comprehensive_Enhancement_Edition.md
+from-external-2/Prompt_Archive/The_Debrief_Machine_v2.4.0-Comprehensive_Enhancement_Edition.md
+from-external-3/Prompt_Archive/The_Debrief_Machine_v2.4.0-Comprehensive_Enhancement_Edition.md
+from-obsidian-main/Prompt_Archive/The_Debrief_Machine_v2.4.0-Comprehensive_Enhancement_Edition.md
+
+=== Checksum: d8be3fb752df96080140995f878cd42a ===
+from-external-2/Prompt_Archive/Technical_Development_Requirements_Clarification_Process-1.md
+from-external-3/Prompt_Archive/Technical_Development_Requirements_Clarification_Process-1.md
+from-obsidian-main/Prompt_Archive/Technical_Development_Requirements_Clarification_Process-1.md
+
+=== Checksum: d944daad218cb5f42598ba99bba65f4c ===
+from-external-2/Debriefs/Brand_Strategy_and_Multi-Platform_Content_Development-Ultimate_Comprehensive_Debrief_v4.0.md
+from-external-3/Debriefs/Brand_Strategy_and_Multi-Platform_Content_Development-Ultimate_Comprehensive_Debrief_v4.0.md
+from-obsidian-main/Debriefs/Brand_Strategy_and_Multi-Platform_Content_Development-Ultimate_Comprehensive_Debrief_v4.0.md
+
+=== Checksum: d94664e3d29a3af474caf0bdde61b9d5 ===
+from-external-1/Prompt_Archive/ANALYSIS-FOCUSED_Standalone_Edition_v2.4.0.0.md
+from-external-2/Prompt_Archive/ANALYSIS-FOCUSED_Standalone_Edition_v2.4.0.0.md
+from-external-3/Prompt_Archive/ANALYSIS-FOCUSED_Standalone_Edition_v2.4.0.0.md
+from-obsidian-main/Prompt_Archive/ANALYSIS-FOCUSED_Standalone_Edition_v2.4.0.0.md
+
+=== Checksum: da0181153b344c0da763969d940a7a64 ===
+from-external-3/Project_Deliverabies,_Requirements_and_Decisions/Industry_Standards_and_Compliance_Framework_Integration_Guide.md
+from-obsidian-main/Project_Deliverabies,_Requirements_and_Decisions/Industry_Standards_and_Compliance_Framework_Integration_Guide.md
+
+=== Checksum: da04e944e786bcb9529388cbdb0c59b2 ===
+from-external-3/Project_Deliverabies,_Requirements_and_Decisions/Version_Corruption_Discovery_and_Complete_System_Overhaul-Cleanup_Implementation_Plan-1.md
+from-external-3/Project_Deliverabies,_Requirements_and_Decisions/Version_Corruption_Discovery_and_Complete_System_Overhaul-Cleanup_Implementation_Plan.md
+from-obsidian-main/Project_Deliverabies,_Requirements_and_Decisions/Version_Corruption_Discovery_and_Complete_System_Overhaul-Cleanup_Implementation_Plan-1.md
+from-obsidian-main/Project_Deliverabies,_Requirements_and_Decisions/Version_Corruption_Discovery_and_Complete_System_Overhaul-Cleanup_Implementation_Plan.md
+
+=== Checksum: da21fee7004c9f1a09d2fdde051b080a ===
+from-external-1/Debriefs/System_Overview_and_Integration_Guide-1.md
+from-external-2/Debriefs/System_Overview_and_Integration_Guide-1.md
+from-external-3/Debriefs/System_Overview_and_Integration_Guide-1.md
+from-obsidian-main/Debriefs/System_Overview_and_Integration_Guide-1.md
+
+=== Checksum: dd72c42806019af8ab5515c52488c0e2 ===
+from-external-1/Debriefs/AUTONOMOUS_DEBRIEF_SYSTEM_v2.2.0.0.0.md
+from-external-2/Debriefs/AUTONOMOUS_DEBRIEF_SYSTEM_v2.2.0.0.0.md
+from-external-3/Debriefs/AUTONOMOUS_DEBRIEF_SYSTEM_v2.2.0.0.0.md
+from-obsidian-main/Debriefs/AUTONOMOUS_DEBRIEF_SYSTEM_v2.2.0.0.0.md
+
+=== Checksum: df70b80b606976ad91b56f33f1e223f8 ===
+from-external-3/Project_Deliverabies,_Requirements_and_Decisions/Cross-Platform_AI_Project_Transfer_and_Documentation_Toolkit-1.md
+from-external-3/Project_Deliverabies,_Requirements_and_Decisions/Cross-Platform_AI_Project_Transfer_and_Documentation_Toolkit.md
+from-obsidian-main/Project_Deliverabies,_Requirements_and_Decisions/Cross-Platform_AI_Project_Transfer_and_Documentation_Toolkit.md
+
+=== Checksum: dfc0e84acb35a9d1932cdb1140143149 ===
+from-external-1/Prompt_Archive/ChatGPT_Playback_Prompt_v2.0.1.md
+from-external-2/Prompt_Archive/ChatGPT_Playback_Prompt_v2.0.1.md
+from-external-3/Prompt_Archive/ChatGPT_Playback_Prompt_v2.0.1.md
+from-obsidian-main/Prompt_Archive/ChatGPT_Playback_Prompt_v2.0.1.md
+
+=== Checksum: dfeb3544cad747fd46f4963570a48629 ===
+from-external-3/Project_Deliverabies,_Requirements_and_Decisions/Top_50_Issues_in_LLM_and_Online_Research.md
+from-obsidian-main/Project_Deliverabies,_Requirements_and_Decisions/Top_50_Issues_in_LLM_and_Online_Research.md
+
+=== Checksum: e10c62b6002444b15ba812117481e351 ===
+from-external-2/Debriefs/Debrief_System_Enhancement-Project_Briefing_v2.1.4.md
+from-external-3/Debriefs/Debrief_System_Enhancement-Project_Briefing_v2.1.4.md
+from-obsidian-main/Debriefs/Debrief_System_Enhancement-Project_Briefing_v2.1.4.md
+
+=== Checksum: e3b9411b61a3fdbb1b407d59c94c93ba ===
+from-external-2/Prompt_Archive/The_Complete_Debrief_Machine_Prompts-Copy-Paste_Ready.md
+from-external-3/Prompt_Archive/The_Complete_Debrief_Machine_Prompts-Copy-Paste_Ready.md
+from-obsidian-main/Prompt_Archive/The_Complete_Debrief_Machine_Prompts-Copy-Paste_Ready.md
+
+=== Checksum: e3c502e614536bdb629c1d3bae33168a ===
+from-external-3/Project_Deliverabies,_Requirements_and_Decisions/Obsidian_Copyright_Documentation_System_for_AI-Assisted_Creative_Works.md
+from-obsidian-main/Project_Deliverabies,_Requirements_and_Decisions/Obsidian_Copyright_Documentation_System_for_AI-Assisted_Creative_Works.md
+
+=== Checksum: e443d54187fa5c6a773f0f68c90d8fe9 ===
+from-external-3/Project_Deliverabies,_Requirements_and_Decisions/Master_Deliverables_Dashboard-COMPREHENSIVE_EXPANSION.md
+from-obsidian-main/Project_Deliverabies,_Requirements_and_Decisions/Master_Deliverables_Dashboard-COMPREHENSIVE_EXPANSION.md
+
+=== Checksum: e466dc03b08e1220172e1ba56544cd05 ===
+from-external-1/Prompt_Archive/Claude_Edition_Immediate_Execution_.md
+from-external-2/Prompt_Archive/Claude_Edition_Immediate_Execution_.md
+from-external-3/Prompt_Archive/Claude_Edition_Immediate_Execution_.md
+from-obsidian-main/Prompt_Archive/Claude_Edition_Immediate_Execution_.md
+
+=== Checksum: e48ca740f1c75860de022f7000978770 ===
+from-external-1/Debriefs/File_Management_and_Cleanup_Strategy-Project_Knowledge_Optimization.md
+from-external-2/Debriefs/File_Management_and_Cleanup_Strategy-Project_Knowledge_Optimization.md
+from-external-3/Debriefs/File_Management_and_Cleanup_Strategy-Project_Knowledge_Optimization.md
+from-obsidian-main/Debriefs/File_Management_and_Cleanup_Strategy-Project_Knowledge_Optimization.md
+
+=== Checksum: e4ad3f7fdc39b63c20b6ac11dbfccc81 ===
+from-external-1/Prompt_Archive/The_Debrief_Machine-ChatGPT_Playback_Prompt_v2.0.1.0.0.md
+from-external-2/Prompt_Archive/The_Debrief_Machine-ChatGPT_Playback_Prompt_v2.0.1.0.0.md
+from-external-3/Prompt_Archive/The_Debrief_Machine-ChatGPT_Playback_Prompt_v2.0.1.0.0.md
+from-obsidian-main/Prompt_Archive/The_Debrief_Machine-ChatGPT_Playback_Prompt_v2.0.1.0.0.md
+
+=== Checksum: e5f8817ce5de8afdb0f9b425a9dfeaaf ===
+from-external-2/Debriefs/Brand_Strategy_and_Content_Pipeline_Development-Project_Briefing_v2.0.0.md
+from-external-3/Debriefs/Brand_Strategy_and_Content_Pipeline_Development-Project_Briefing_v2.0.0.md
+from-obsidian-main/Debriefs/Brand_Strategy_and_Content_Pipeline_Development-Project_Briefing_v2.0.0.md
+
+=== Checksum: e79b4b2adc4ab9b750399c81cf1b970b ===
+from-external-3/Project_Deliverabies,_Requirements_and_Decisions/Optimization_and_Multi-Platform_Development-Project_Briefing_v2.4.0.md
+from-obsidian-main/Project_Deliverabies,_Requirements_and_Decisions/Optimization_and_Multi-Platform_Development-Project_Briefing_v2.4.0.md
+
+=== Checksum: e7b6f1c56e6f968c844f6202da2cff3a ===
+from-external-1/Prompt_Archive/The_Debrief_Machine_v2.2.0-Research-Driven_Guide_Generation.md
+from-external-2/Prompt_Archive/The_Debrief_Machine_v2.2.0-Research-Driven_Guide_Generation.md
+from-external-3/Prompt_Archive/The_Debrief_Machine_v2.2.0-Research-Driven_Guide_Generation.md
+from-obsidian-main/Prompt_Archive/The_Debrief_Machine_v2.2.0-Research-Driven_Guide_Generation.md
+
+=== Checksum: e7c7e8aba6db4e499d247394ca621a2f ===
+from-external-1/Debriefs/Complete_Knowledge_Base_Restructure_Plan.md
+from-external-2/Debriefs/Complete_Knowledge_Base_Restructure_Plan.md
+from-external-3/Debriefs/Complete_Knowledge_Base_Restructure_Plan.md
+from-obsidian-main/Debriefs/Complete_Knowledge_Base_Restructure_Plan.md
+
+=== Checksum: e87ded6cb6d7ea007f69a66df546be71 ===
+from-external-2/Prompt_Archive/Complete_Collection_with_Enhanced_Project_Audit_v2.3.0.0.md
+from-external-3/Prompt_Archive/Complete_Collection_with_Enhanced_Project_Audit_v2.3.0.0.md
+from-obsidian-main/Prompt_Archive/Complete_Collection_with_Enhanced_Project_Audit_v2.3.0.0.md
+
+=== Checksum: e89c177d8c58778f1de5fc05a7756337 ===
+from-external-1/Prompt_Archive/Auto-Trigger_Detection_System_Claude_Edition_v1.1.md
+from-external-2/Prompt_Archive/Auto-Trigger_Detection_System_Claude_Edition_v1.1.md
+from-external-3/Prompt_Archive/Auto-Trigger_Detection_System_Claude_Edition_v1.1.md
+from-obsidian-main/Prompt_Archive/Auto-Trigger_Detection_System_Claude_Edition_v1.1.md
+
+=== Checksum: e978e952c36bdae1e741d64f63e917a1 ===
+from-external-3/Prompt_Archive/High-Value_Perplexity_Research_Questions.md
+from-obsidian-main/Prompt_Archive/High-Value_Perplexity_Research_Questions.md
+
+=== Checksum: ea30d592decde71e4780abd55914c3a2 ===
+from-external-2/Debriefs/Smart_Project_Continuation_Development-Project_Briefing_v2.1.2.md
+from-external-3/Debriefs/Smart_Project_Continuation_Development-Project_Briefing_v2.1.2.md
+from-obsidian-main/Debriefs/Smart_Project_Continuation_Development-Project_Briefing_v2.1.2.md
+
+=== Checksum: ea73aff411a9e288282533856911a800 ===
+from-external-3/Prompt_Archive/COMPREHENSIVE_ENHANCEMENT_TRIGGER_SYSTEM_v2.0.md
+from-obsidian-main/Prompt_Archive/COMPREHENSIVE_ENHANCEMENT_TRIGGER_SYSTEM_v2.0.md
+
+=== Checksum: eabbd90b8e4f25f76be83bea09548f5a ===
+from-external-3/Project_Deliverabies,_Requirements_and_Decisions/Realistic_Timeline_Options-Knowledge_Base_Restructure.md
+from-obsidian-main/Project_Deliverabies,_Requirements_and_Decisions/Realistic_Timeline_Options-Knowledge_Base_Restructure.md
+
+=== Checksum: eafba1cb2e29d9e53a66d54cf88d11e6 ===
+from-external-3/Debriefs/Enhanced_Consolidated_Analysis-Comprehensive_Enhancement_v2.0.0.0.md
+from-external-3/Debriefs/Enhanced_Consolidated_Analysis-Comprehensive_Enhancement_v2.0.md
+from-obsidian-main/Debriefs/Enhanced_Consolidated_Analysis-Comprehensive_Enhancement_v2.0.md
+
+=== Checksum: ed828c70f416235cb31b6c68f44cfb97 ===
+from-external-1/Prompt_Archive/Archived_Prompts/Enhanced_Debrief_Machine_v3.0-Complete_Implementation_Specification.md
+from-external-2/Prompt_Archive/Archived_Prompts/Enhanced_Debrief_Machine_v3.0-Complete_Implementation_Specification.md
+from-external-3/Prompt_Archive/Archived_Prompts/Enhanced_Debrief_Machine_v3.0-Complete_Implementation_Specification.md
+from-obsidian-main/Prompt_Archive/Archived_Prompts/Enhanced_Debrief_Machine_v3.0-Complete_Implementation_Specification.md
+
+=== Checksum: ee2ff86fbab06b1f3b7229898e9f26b0 ===
+from-external-1/Emergency_Copyright_Recovery_Protocol_and_Debrief_Integration_System.md
+from-external-2/Emergency_Copyright_Recovery_Protocol_and_Debrief_Integration_System.md
+from-external-3/Emergency_Copyright_Recovery_Protocol_and_Debrief_Integration_System.md
+from-obsidian-main/Emergency_Copyright_Recovery_Protocol_and_Debrief_Integration_System.md
+
+=== Checksum: ef277fe65d4ad0a1e18d4787b65fd36c ===
+from-external-3/Prompt_Archive/DEBRIEF_TRIGGER_SYSTEM_v2.1.0_+_COPYRIGHT_PROTECTION_MODULE.md
+from-obsidian-main/Prompt_Archive/DEBRIEF_TRIGGER_SYSTEM_v2.1.0_+_COPYRIGHT_PROTECTION_MODULE.md
+
+=== Checksum: f0262501733cb2bd5bb3cb4e26502035 ===
+from-external-1/Prompt_Archive/Trigger_Detection_Testing_Framework_and_Scenarios.md
+from-external-2/Prompt_Archive/Trigger_Detection_Testing_Framework_and_Scenarios.md
+from-external-3/Prompt_Archive/Trigger_Detection_Testing_Framework_and_Scenarios.md
+from-obsidian-main/Prompt_Archive/Trigger_Detection_Testing_Framework_and_Scenarios.md
+
+=== Checksum: f045d454f83b4da279e484cb1b73a040 ===
+from-external-1/Prompt_Archive/Perplexity_Debrief_Prompts_v2.1.0.md
+from-external-2/Prompt_Archive/Perplexity_Debrief_Prompts_v2.1.0.md
+from-external-3/Prompt_Archive/Perplexity_Debrief_Prompts_v2.1.0.md
+from-obsidian-main/Prompt_Archive/Perplexity_Debrief_Prompts_v2.1.0.md
+
+=== Checksum: f0698cf459b47a5c8b14635473052d52 ===
+from-external-1/Debriefs/Comprehensive_Copyright_Protection_Gap_Analysis_and_Multi-Project_Protocol.md
+from-external-2/Debriefs/Comprehensive_Copyright_Protection_Gap_Analysis_and_Multi-Project_Protocol.md
+from-external-3/Debriefs/Comprehensive_Copyright_Protection_Gap_Analysis_and_Multi-Project_Protocol.md
+from-obsidian-main/Debriefs/Comprehensive_Copyright_Protection_Gap_Analysis_and_Multi-Project_Protocol.md
+
+=== Checksum: f07045f28b260dc3df32ded5c774a751 ===
+from-external-2/Prompt_Archive/🤖
+from-external-3/Prompt_Archive/🤖
+from-obsidian-main/Prompt_Archive/🤖
+
+=== Checksum: f16bfc84898d47a939730317326d3b6d ===
+from-external-3/Sessions/Session_1-The_Debrief_Machine-Playback_Prompt.md
+from-obsidian-main/Sessions/Session_1-The_Debrief_Machine-Playback_Prompt.md
+
+=== Checksum: f21bb7d83246394ec5da4a10f10d5645 ===
+from-external-1/Prompt_Archive/The_Debrief_Machine-Claude_Playback_Prompt_v2.0.1.0.0.md
+from-external-1/Prompt_Archive/The_Debrief_Machine-Claude_Playback_Prompt_v2.0.1.0.md
+from-external-1/Prompt_Archive/The_Debrief_Machine-Claude_Playback_Prompt_v2.0.1.md
+from-external-2/Prompt_Archive/The_Debrief_Machine-Claude_Playback_Prompt_v2.0.1.0.0.md
+from-external-2/Prompt_Archive/The_Debrief_Machine-Claude_Playback_Prompt_v2.0.1.0.md
+from-external-2/Prompt_Archive/The_Debrief_Machine-Claude_Playback_Prompt_v2.0.1.md
+from-external-3/Prompt_Archive/The_Debrief_Machine-Claude_Playback_Prompt_v2.0.1.0.0.md
+from-external-3/Prompt_Archive/The_Debrief_Machine-Claude_Playback_Prompt_v2.0.1.0.md
+from-external-3/Prompt_Archive/The_Debrief_Machine-Claude_Playback_Prompt_v2.0.1.md
+from-obsidian-main/Prompt_Archive/The_Debrief_Machine-Claude_Playback_Prompt_v2.0.1.0.0.md
+from-obsidian-main/Prompt_Archive/The_Debrief_Machine-Claude_Playback_Prompt_v2.0.1.0.md
+from-obsidian-main/Prompt_Archive/The_Debrief_Machine-Claude_Playback_Prompt_v2.0.1.md
+
+=== Checksum: f4674ec2e948ca43df8d025b2a333d4a ===
+from-downloads/debrief_machine_chatgpt
+from-external-1/Prompt_Archive/ChatGPT_Edition_v2.1.0_1.md
+from-external-2/Prompt_Archive/ChatGPT_Edition_v2.1.0_1.md
+from-external-3/Prompt_Archive/ChatGPT_Edition_v2.1.0_1.md
+from-obsidian-main/Prompt_Archive/ChatGPT_Edition_v2.1.0_1.md
+from-obsidian-small/debrief_machine_chatgpt
+
+=== Checksum: f46bfe06fc0a490f91ed62407fa5e3df ===
+from-external-2/Prompt_Archive/The_Complete_Debrief_Machine_Prompts-Copy-Paste_Ready-1.md
+from-external-3/Prompt_Archive/The_Complete_Debrief_Machine_Prompts-Copy-Paste_Ready-1.md
+from-obsidian-main/Prompt_Archive/The_Complete_Debrief_Machine_Prompts-Copy-Paste_Ready-1.md
+
+=== Checksum: f72a40cb3d3d0cdfe3599885385d850f ===
+from-external-1/Project_Audit_Version_v2.4.0.md
+from-external-2/Project_Audit_Version_v2.4.0.md
+
+=== Checksum: f72f2dcaba53d29870bd16dfdb908592 ===
+from-external-3/Prompt_Archive/Iterative_Enhancement_Prompt-1.md
+from-obsidian-main/Prompt_Archive/Iterative_Enhancement_Prompt-1.md
+
+=== Checksum: f75ccb4a099b6b2c02ec4a41611378bb ===
+from-external-1/Debriefs/Auto-Trigger_Detection_System_Implementation-Project_Briefing.md
+from-external-2/Debriefs/Auto-Trigger_Detection_System_Implementation-Project_Briefing.md
+from-external-3/Debriefs/Auto-Trigger_Detection_System_Implementation-Project_Briefing.md
+from-obsidian-main/Debriefs/Auto-Trigger_Detection_System_Implementation-Project_Briefing.md
+
+=== Checksum: f7aef796081639b9a3030e7b22dc78b3 ===
+from-external-1/Prompt_Archive/Integrated_Main_System_Prompt_with_Autonomous_Debrief_System.md
+from-external-2/Prompt_Archive/Integrated_Main_System_Prompt_with_Autonomous_Debrief_System.md
+from-external-3/Prompt_Archive/Integrated_Main_System_Prompt_with_Autonomous_Debrief_System.md
+from-obsidian-main/Prompt_Archive/Integrated_Main_System_Prompt_with_Autonomous_Debrief_System.md
+
+=== Checksum: f81fed5fe7502ffaf91bceedbf11aa41 ===
+from-external-1/Debriefs/Current_Session_Artifact_Upload_Status_and_Project_File_Management.md
+from-external-2/Debriefs/Current_Session_Artifact_Upload_Status_and_Project_File_Management.md
+from-external-3/Debriefs/Current_Session_Artifact_Upload_Status_and_Project_File_Management.md
+from-obsidian-main/Debriefs/Current_Session_Artifact_Upload_Status_and_Project_File_Management.md
+
+=== Checksum: f8b8c2b70a90a334342ec46f59592113 ===
+from-external-2/Debriefs/Comprehensive_Deliverables_Tracking-Complete_Project_Execution_Timeline_v2.0.md
+from-external-3/Debriefs/Comprehensive_Deliverables_Tracking-Complete_Project_Execution_Timeline_v2.0.md
+from-obsidian-main/Debriefs/Comprehensive_Deliverables_Tracking-Complete_Project_Execution_Timeline_v2.0.md
+
+=== Checksum: f912851d6cabab5c6f2a5bc9ef576561 ===
+from-external-3/Prompt_Archive/COMPREHENSIVE_RESEARCH_GUIDE_SYSTEM_v2.1.0.md
+from-obsidian-main/Prompt_Archive/COMPREHENSIVE_RESEARCH_GUIDE_SYSTEM_v2.1.0.md
+from-obsidian-small/COMPREHENSIVE
+
+=== Checksum: f9faa3fb1e0c36dd03c0870c7c2de820 ===
+from-external-3/Debriefs/Project_Briefing_v2.2.0_with_Intelligent_Audit.md
+from-obsidian-main/Debriefs/Project_Briefing_v2.2.0_with_Intelligent_Audit.md
+
+=== Checksum: fb2bcde87b4d7b215240ecac7263be9d ===
+from-external-3/Debriefs/Final_Implementation_Summary-Complete_System_Ready_for_Deployment.md
+from-obsidian-main/Debriefs/Final_Implementation_Summary-Complete_System_Ready_for_Deployment.md
+from-obsidian-small/final_implementation_summary
+
+=== Checksum: fcf9ffe863c06fc5518cc2adfe105426 ===
+from-external-3/Prompt_Archive/AI_Projects_Edition_v2.1.0.md
+from-external-3/Prompt_Archive/AI_Projects_Edition_v2.1.md
+from-obsidian-main/Prompt_Archive/AI_Projects_Edition_v2.1.0.md
+from-obsidian-main/Prompt_Archive/AI_Projects_Edition_v2.1.md
+
+=== Checksum: fe2c3b6146d2888eea1efb40748be0e9 ===
+from-external-2/Debriefs/Enhancement_Project_v2.3.0-Project_Briefing.md
+from-external-3/Debriefs/Enhancement_Project_v2.3.0-Project_Briefing.md
+from-obsidian-main/Debriefs/Enhancement_Project_v2.3.0-Project_Briefing.md
+
