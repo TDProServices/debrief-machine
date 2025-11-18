@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: General Question
+    url: mailto:tanya@tdproservices.com
+    about: For general questions about using Debrief Machine
+  - name: Product Purchase Support
+    url: https://gumroad.com/tdproservices
+    about: For issues with purchasing or downloading products
