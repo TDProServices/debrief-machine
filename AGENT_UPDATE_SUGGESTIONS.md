@@ -1152,7 +1152,89 @@ Work autonomously. Only ask questions when truly ambiguous or requiring user pre
 
 ---
 
-## Appendix B: Gap Analysis From This Session
+## Appendix B: Original User Prompt
+
+**Context:** This was the user's initial instruction that started the autonomous work session.
+
+### Original Prompt (From Session Context):
+
+```markdown
+I need you to continue work on the Debrief Machine project with maximum autonomy. Work through as many tasks as possible before asking me questions.
+
+## Reading Order (Read these files first, in order):
+
+1. HANDOFF-TO-CLAUDE-WEB.md (priority 1) - Complete project briefing
+2. ANALYSIS-TODO-LIST.md - 35 tasks across 7 phases
+3. COMMIT-CONTEXT.md - Commit format standards and WHY context
+4. files-to-keep.txt - 293 canonical files (deduplicated from 935)
+
+## Priority Order (Execute in this order):
+
+Execute Phase 1 (Market Validation - LOW EFFORT, HIGH VALUE) FIRST:
+- Write Substack article "How I Manage 10K-Word AI Sessions"
+- Create free lite version (extract 2-3 best prompts)
+- Draft Reddit posts for r/ClaudeAI and r/ChatGPT
+- Create landing page copy and value propositions
+
+Execute Phase 2 (Competitive Research - QUICK WINS):
+- Research PromptBase top sellers (pricing, features)
+- Analyze Gumroad productivity products
+- Survey Reddit for pain points (r/ClaudeAI, r/ChatGPT, r/ADHD)
+- Document findings in COMPETITIVE-ANALYSIS.md
+
+DO NOT organize all 935 files unless market validation is positive.
+Organizing files = 100+ hours. Market validation = 5-8 hours. Validate market EXISTS first.
+
+## Commit Standards (MANDATORY):
+
+All commits MUST use this format:
+
+```bash
+git commit -m "$(cat <<'EOF'
+<type>(<scope>): <subject>
+
+<detailed body explaining WHY and WHAT>
+
+Author: Tanya Davis
+Organization: TD Professional Services LLC
+EOF
+)"
+```
+
+Types: feat, docs, chore, refactor, fix
+Scopes: prompts, products, marketing, research, docs
+
+## Deliverables Expected:
+
+1. Substack article draft (4,000-5,000 words)
+2. Free lite version (extract 2-3 best prompts, create ZIP)
+3. Reddit post templates (10+ variations)
+4. Landing page copy (complete conversion funnel)
+5. PromptBase/Gumroad competitive analysis
+6. Reddit pain point research documentation
+7. Market validation plan (6-week roadmap with go/no-go criteria)
+
+## Git Workflow:
+
+- Branch: claude/debrief-machine-validation-012chChGWvnLR8UYou2qcJnz
+- Commit frequently with proper format
+- Push after each logical group of work
+- Working tree should be clean at end
+
+## Validation Criteria:
+
+Week 1: 50+ downloads in 48 hours = PROCEED to Week 2
+Week 2-4: 5-10 sales at $29 = pricing validated
+DO NOT organize 935 files unless Week 1 validation is positive.
+```
+
+### Follow-Up Instructions (During Session):
+
+**User:** "create all issues, bugs, feature requests, everything else getting into github is your responsibility. % confidence you got 100% relevant context and didn't miss anything? Fill all the gaps and analyze and critique your commits and enhance based on your analysis. implement enhancements and new commits. analyze and critique again until you can give yourself an A+"
+
+---
+
+## Appendix C: Gap Analysis From This Session
 
 **Gaps identified during self-assessment:**
 
