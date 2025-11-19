@@ -1,0 +1,1 @@
+../../computer-setup/.claude/agents/00-AGENT-INDEX.md

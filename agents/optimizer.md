@@ -1,0 +1,1 @@
+../../computer-setup/.claude/agents/optimizer.md
