@@ -57,8 +57,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Product descriptions (Gumroad-ready)
   - Free Lite Edition ($0)
   - Standard Edition ($29)
-  - Pro Bundle ($49)
-  - Complete Bundle ($79)
+  - Pro Bundle ($47)
+  - Complete Bundle ($77)
 
 #### Documentation
 - Comprehensive README.md (290 lines)
@@ -123,8 +123,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 **Pricing Strategy:**
 - Free Lite: $0 (lead magnet + market validation)
 - Standard: $29 (primary offering, 70% of sales expected)
-- Pro: $49 (professional users, 20% of sales)
-- Complete: $79 (power users, 5-10% of sales)
+- Pro: $47 (professional users, 20% of sales)
+- Complete: $77 (power users, 5-10% of sales)
 
 **Platform Approach:**
 - Universal prompts (cross-platform)
@@ -174,7 +174,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [ ] Obsidian Plugin ($19 add-on) - Auto-debrief when closing AI chats
 - [ ] Notion Template Bundle ($14.99) - Pre-built databases for session management
 - [ ] Browser Extension ($29) - Capture sessions automatically from Claude/ChatGPT
-- [ ] Video Course ($79) - "Mastering AI Session Management"
+- [ ] Video Course ($77) - "Mastering AI Session Management"
 - [ ] Team Edition ($99 for 5 users) - Shared database, collaboration features
 
 ### Future Marketing

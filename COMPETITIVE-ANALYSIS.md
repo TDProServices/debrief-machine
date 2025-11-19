@@ -495,7 +495,7 @@ ADHD + AI is a growing intersection. ADDitude Magazine published multiple articl
 
 ---
 
-#### **Pro Bundle - $49**
+#### **Pro Bundle - $47**
 **Contents:**
 - Everything in Standard ($29)
 - Notion templates
@@ -512,9 +512,9 @@ ADHD + AI is a growing intersection. ADDitude Magazine published multiple articl
 
 ---
 
-#### **Complete Bundle - $79**
+#### **Complete Bundle - $77**
 **Contents:**
-- Everything in Pro ($49)
+- Everything in Pro ($47)
 - Automation scripts
 - Email support
 - Private community access
@@ -542,7 +542,7 @@ ADHD + AI is a growing intersection. ADDitude Magazine published multiple articl
 - **If 15+ sales:** Test $39 for new customers (existing grandfathered)
 
 **Phase 3: Optimize**
-- Bundle emphasis (show savings: Complete $79 vs individual $29+$20+$30 = $79)
+- Bundle emphasis (show savings: Complete $77 vs individual $29+$20+$30 = $79)
 - Limited-time discounts (launch week: $19, regular $29)
 - Volume pricing (teams of 5+)
 
@@ -677,13 +677,13 @@ ADHD + AI is a growing intersection. ADDitude Magazine published multiple articl
 - Obsidian Plugin: $19 (add-on)
 - Notion Template Bundle: $14.99 (add-on)
 - Team Edition: $99 (5-user license)
-- AI Session Management Course: $79 (video course)
+- AI Session Management Course: $77 (video course)
 
-**Portfolio Revenue:** $29 + $19 + $14.99 + $99 + $79 = $240.99 potential per customer
+**Portfolio Revenue:** $29 + $19 + $14.99 + $99 + $77 = $238.99 potential per customer
 
 **Path to $500/month:**
 - 17 Standard Edition sales @ $29 = $493/month
-- OR 5 Complete Bundle sales @ $79 + 6 Standard sales = $569/month
+- OR 5 Complete Bundle sales @ $77 + 6 Standard sales = $559/month
 - OR Product suite (2-3 products per customer): 8-10 customers/month
 
 #### **Lever 2: Subscription Model**
@@ -877,7 +877,7 @@ ADHD + AI is a growing intersection. ADDitude Magazine published multiple articl
 ### Priority 2: SOFT LAUNCH PAID VERSION ✅
 
 **Action Items:**
-1. Create Gumroad listing (Standard $29, Pro $49, Complete $79)
+1. Create Gumroad listing (Standard $29, Pro $47, Complete $77)
 2. Build landing page (Carrd or Gumroad built-in)
 3. Set up email capture (ConvertKit free tier)
 4. Announce on Reddit (same communities)

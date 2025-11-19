@@ -31,7 +31,7 @@
 | **Target Market Size** | 5.7M paid AI users (TAM), 1.1M power users (SAM) |
 | **Year 1 Revenue Projection** | $200-400/month realistic |
 | **Documentation Status** | 100% complete for Week 1 launch |
-| **Commits (This Session)** | 9 commits, all properly formatted |
+| **Commits (This Session)** | 15 commits, all properly formatted |
 | **Branch** | claude/debrief-machine-validation-012chChGWvnLR8UYou2qcJnz |
 
 ---
@@ -232,8 +232,8 @@ debrief-machine/
 |------|-------|-----------------|--------------|
 | **Free Lite** | $0 | Universal prompt + Quick Q&A + README | Lead magnet, market validation |
 | **Standard** | $29 | Platform-specific (Claude, ChatGPT, Perplexity) + Specialized variants (ADHD, Legal, Technical, Academic) | AI Power Users, Individual contributors |
-| **Pro Bundle** | $49 | Everything in Standard + Advanced templates + Priority support | Power users, Consultants |
-| **Complete** | $79 | All variants + Future updates + Team license (5 users) | Teams, Enterprises |
+| **Pro Bundle** | $47 | Everything in Standard + Advanced templates + Priority support | Power users, Consultants |
+| **Complete** | $77 | All variants + Future updates + Team license (5 users) | Teams, Enterprises |
 
 **Revenue Projections (Year 1):**
 - Conservative: $200/month = $2,400/year (7 sales/month at $29)
@@ -530,7 +530,6 @@ debrief-machine/
 **Project Owner:**
 Tanya Davis
 TD Professional Services LLC
-Email: tanya@tdproservices.com
 
 **Repository:**
 https://github.com/TDProServices/debrief-machine

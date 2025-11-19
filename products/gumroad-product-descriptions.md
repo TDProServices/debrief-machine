@@ -333,10 +333,10 @@ I respond to every email.
 
 ---
 
-## 🔥 PRO BUNDLE - $49
+## 🔥 PRO BUNDLE - $47
 
 ### Product Name:
-The Debrief Machine - Pro Bundle ($49)
+The Debrief Machine - Pro Bundle ($47)
 
 ### Short Description (160 characters):
 Complete Collection + Notion templates + Obsidian vault + Team collaboration + Video tutorials. Everything you need for professional AI session management.
@@ -348,7 +348,7 @@ Complete System
 + Templates
 + Tutorials
 
-$49 • Lifetime Access
+$47 • Lifetime Access
 ```
 
 ### Full Product Description:
@@ -412,7 +412,7 @@ Everything in the Standard Edition ($29) **PLUS** professional templates, team c
 **If you bill for your time:** Professional documentation = easier client billing
 
 **ROI calculation:**
-- Pro Bundle: $49
+- Pro Bundle: $47
 - Time saved on setup: 5-10 hours
 - Your hourly rate: $50-150/hour
 - Value delivered: $250-$1,500
@@ -432,10 +432,10 @@ tanya@tdproservices.com
 
 ---
 
-## 🚀 COMPLETE BUNDLE - $79
+## 🚀 COMPLETE BUNDLE - $77
 
 ### Product Name:
-The Debrief Machine - Complete Bundle ($79)
+The Debrief Machine - Complete Bundle ($77)
 
 ### Short Description (160 characters):
 Everything in Pro + Automation scripts + Email support + Private community + Early access to future products. Ultimate AI productivity system.
@@ -447,7 +447,7 @@ Everything Included
 Automation + Support
 + Community
 
-$79 • Lifetime Access
+$77 • Lifetime Access
 ```
 
 ### Full Product Description:
@@ -459,7 +459,7 @@ Everything. Every edition, every template, every feature, automation scripts, em
 
 ## What's Included
 
-### Everything from Pro Bundle ($49 value):
+### Everything from Pro Bundle ($47 value):
 - Complete Collection (all platforms, all variants)
 - Notion templates + Obsidian vault structure
 - Team collaboration templates
@@ -509,7 +509,7 @@ Everything. Every edition, every template, every feature, automation scripts, em
 ## Why Complete Bundle
 
 **Best Value:**
-- $79 vs buying individually ($29 + $20 templates + $30 automation + $20 support = $99)
+- $77 vs buying individually ($29 + $20 templates + $30 automation + $20 support = $99)
 - Save $20 (20% discount)
 
 **Best Support:**
@@ -529,7 +529,7 @@ Everything. Every edition, every template, every feature, automation scripts, em
 
 ## 30-Day Money-Back Guarantee
 
-Try the Complete Bundle for 30 days. If it's not the best $79 you've spent on productivity, email me for a full refund.
+Try the Complete Bundle for 30 days. If it's not the best $77 you've spent on productivity, email me for a full refund.
 
 I'm confident this will transform your AI workflow. But if it doesn't deliver massive value for you, you shouldn't pay for it.
 
@@ -554,7 +554,7 @@ I'm confident this will transform your AI workflow. But if it doesn't deliver ma
 ```markdown
 ## Which Edition Is Right For You?
 
-| Feature | Free Lite | Standard ($29) | Pro ($49) | Complete ($79) |
+| Feature | Free Lite | Standard ($29) | Pro ($47) | Complete ($77) |
 |---------|-----------|----------------|-----------|----------------|
 | Universal debrief prompts | ✅ | ✅ | ✅ | ✅ |
 | Platform-specific editions | ❌ | ✅ | ✅ | ✅ |
@@ -570,10 +570,10 @@ I'm confident this will transform your AI workflow. But if it doesn't deliver ma
 | Private community access | ❌ | ❌ | ❌ | ✅ |
 | Early access to future products | ❌ | ❌ | ❌ | ✅ |
 | **Best For** | Testing | Most users | Professionals | Power users |
-| **Price** | Free | $29 | $49 | $79 |
+| **Price** | Free | $29 | $47 | $77 |
 
 **Most Popular:** Standard Edition ($29) - 70% of users choose this
-**Best Value:** Complete Bundle ($79) - Save $20 vs buying individually
+**Best Value:** Complete Bundle ($77) - Save $20 vs buying individually
 ```
 
 ---

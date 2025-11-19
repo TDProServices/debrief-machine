@@ -154,7 +154,7 @@
 - Debrief Machine: Comprehensive AI session debrief prompt collection
 - Platform-specific editions (Claude, ChatGPT, Perplexity)
 - Specialized variants (Legal, Research, Autonomous, ADHD-friendly)
-- Tiered pricing: Free Lite ($0) → Standard ($29) → Pro ($49) → Bundle ($79)
+- Tiered pricing: Free Lite ($0) → Standard ($29) → Pro ($47) → Bundle ($77)
 
 **Validation-First Approach:**
 1. Test market exists (free lite version, Substack article)
